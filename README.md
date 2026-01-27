@@ -3,7 +3,7 @@
 
 This repository illustrates the features of our latest genome-scale generic model of human cell biology.
 
-> Version: `odevc-14.25.131` &nbsp; &nbsp;  Last update: `20260126T151738`
+> Version: `15.49.168`-`20260127T133109`
 
 
 ## Overview
@@ -22,20 +22,19 @@ Specifically, the model incorporates the components listed in the following tabl
 | Compartments | **9** 
 | | | extracellular | extracellular space |
 |              |  | intracellular | cytosol<br>mitochondrion (intermembrane space)<br>mitochondrion (matrix)<br>nucleus<br>(sarco)endoplasmic reticulum<br>Golgi apparatus<br>peroxisome<br>lysosome |
-| Genes | **14,153** | | see `genes.csv` |
-| Molecular Species | **24,518** (*)
+| Genes | **15,132** | | see [`genes.csv`](genes.csv) |
+| Molecular Species | **49,010** (\*)
 | | | gene products | proteins (via mRNA)<br>&nbsp;&nbsp;*signaling proteins*<br>&nbsp;&nbsp;*transcription factors*<br>&nbsp;&nbsp;*enzymes*<br>&nbsp;&nbsp;*channels*<br>&nbsp;&nbsp;*transporters*<br>long non-coding RNAs (lncRNA)<br>micro RNAs (miRNA) |
 | | | complexes | enzymatic, regulatory, etc. |
 | | | small molecules | metabolites<br>ions<br>cofactors<br>second messengers |
-| Gene-associated Reactions | **130,627**
+| Gene-associated Reactions | **168,295**
 | | | signal transduction | activation/inactivation (kinases, phosphatases, receptors, G-proteins, etc.) |
 | | | gene regulation | upregulation/downregulation of gene expression |
 | | | complex formation | physical interactions, binding, etc. |
 | | | enzymatic catalysis | biosynthesis, energy metabolism, etc. |
 | | | intercompartment transport | transmembrane, carrier- or channel-mediated, etc. |
-|
 
-(*) As *unique* molecular species. The actual number of species (corresponding to the number of ODEs) is substantially larger as many species exist in different states (e.g., phosphorylated vs dephosphorylated proteins).
+(\*) As total molecular species (corresponding to the number of ODEs). This is larger then the number of unique molecular species becuase many species exist in different states (e.g., phosphorylated vs dephosphorylated proteins) or compartments.
 
 
 ## Planned Updates
