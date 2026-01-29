@@ -1,5 +1,5 @@
 
-# Virtual whole-cell model
+# Virtual cell model
 
 This repository illustrates the features of our latest genome-scale generic model of human cell biology.
 
@@ -8,7 +8,11 @@ This repository illustrates the features of our latest genome-scale generic mode
 
 ## Overview
 
-A human biological network (in the form of a directed hypergraph) is constructed through semi-automatic extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. The network is used to build a mechanistic, compartmentalized, generic model as a systems of ordinary differential equations (ODEs). The generic model can be parametrized using public or private multiomics datasets to make it cell type- or tissue-specific. The parametrized model is used within our AI-Driven Biosimulation platform (https://netabolics.ai/) to perform dynamical (i.e., time-resolved) simulation.
+We constructed a human biological network (in the form of a directed hypergraph) through semi-automatic extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. Presently, the graph contain approx. 790k edges and 220k nodes. This is too large to be displayed here, but we show an example of nearest-neighbors subnetworks using representative nodes (distance $d=2$ species nodes).
+
+![Subnetwork example](./nn_example.svg)
+
+The network is used to build a mechanistic, compartmentalized, generic model of cell biology as a systems of ordinary differential equations (ODEs). The generic model can be parametrized using public or private multiomics datasets to make it cell type- or tissue-specific, and used within our AI-Driven Biosimulation platform (https://netabolics.ai/) to perform dynamical (i.e., time-resolved) simulation.
 
 
 ## Features
@@ -34,12 +38,12 @@ Specifically, the model incorporates the components listed in the following tabl
 | | | enzymatic catalysis | biosynthesis, energy metabolism, etc. |
 | | | intercompartment transport | transmembrane, carrier- or channel-mediated, etc. |
 
-(\*) As total molecular species (corresponding to the number of ODEs). This is larger then the number of unique molecular species becuase many species exist in different states (e.g., phosphorylated vs dephosphorylated proteins) or compartments.
+(\*) As total molecular species (corresponding to the number of ODEs). This is larger then the number of unique molecular species because many of them exist in different states (e.g., phosphorylated vs dephosphorylated proteins) and/or in different compartments.
 
 
 ## Planned Updates
 
-We are constantly working to extend gene coverage. Currently, we are assessing the confidence of about half million additional gene-associated reactions to reach a complete coverage of the protein-coding genes and almost full coverage of the known non-coding RNA genes.
+We are constantly working to extend model's gene coverage. Currently, we are assessing the confidence of about half million additional gene-associated reactions to reach a complete coverage of the protein-coding genes and almost full coverage of the known non-coding RNA genes.
 
 
 ## Further Reading
