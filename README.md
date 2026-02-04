@@ -3,12 +3,12 @@
 
 This repository illustrates the features of our latest genome-scale generic model of human cell biology.
 
-> Version: `15.49.168`-`20260127T133109`
+> Version: `21.60.594`-`20260201T171236`
 
 
 ## Overview
 
-We constructed a human biological network (in the form of a directed hypergraph) through semi-automatic extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. Presently, the network contains approx. 790k edges and 220k nodes. This is too large to be displayed here, but below we show an example of nearest-neighbors subnetworks using representative nodes (up to a distance of $d=2$ species nodes).
+We constructed a human biological network (in the form of a directed hypergraph) through semi-automated extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. Presently, the network contains approx. 2M edges and 650k nodes. This is too large to be displayed here, but below we show an example of nearest-neighbors subnetworks using representative gene nodes (up to a distance of $d=2$ species nodes).
 
 ![Subnetwork example](./nn_example.svg)
 
@@ -23,27 +23,29 @@ Specifically, the model incorporates the components listed in the following tabl
 
 | Component | Number | Class | Type/Example |
 | --------- | ------ | ----- | ---- |
-| Compartments | **9** 
-| | | extracellular | extracellular space |
+| Compartments | **9**+1 (\*)
+| | | extracellular | reservoir (e.g., blood) (\*)<br>extracellular space |
 |              |  | intracellular | cytosol<br>mitochondrion (intermembrane space)<br>mitochondrion (matrix)<br>nucleus<br>(sarco)endoplasmic reticulum<br>Golgi apparatus<br>peroxisome<br>lysosome |
-| Genes | **15,132** | | see [`genes.csv`](genes.csv) |
-| Molecular Species | **49,010** (\*)
+| Genes | **20,776** | | see [`genes.csv`](genes.csv) |
+| Molecular Species | **60,298** (\*\*)
 | | | gene products | proteins (via mRNA)<br>&nbsp;&nbsp;*signaling proteins*<br>&nbsp;&nbsp;*transcription factors*<br>&nbsp;&nbsp;*enzymes*<br>&nbsp;&nbsp;*channels/transporters*<br>long non-coding RNAs (lncRNA)<br>micro RNAs (miRNA) |
 | | | complexes | enzymatic, regulatory, etc. |
 | | | small molecules | metabolites<br>ions<br>cofactors<br>second messengers |
-| Gene-associated Reactions | **168,295**
+| Gene-associated Reactions | **594,352**
 | | | signal transduction | activation/inactivation (kinases, phosphatases, receptors, G-proteins, etc.) |
 | | | gene regulation | upregulation/downregulation of gene expression |
 | | | complex formation | physical interactions, binding, etc. |
 | | | enzymatic catalysis | biosynthesis, energy metabolism, etc. |
 | | | intercompartmental transport | transmembrane, carrier- or channel-mediated, etc. |
 
-(\*) As total molecular species (corresponding to the number of ODEs). This is larger then the number of unique molecular species because many of them exist in different states (e.g., phosphorylated vs dephosphorylated proteins) and/or in different compartments.
+(\*) Reservoir compartment as source/sink, i.e., supplying/accepting substances to/from the system.
+
+(\*\*) As total molecular species (corresponding to the number of ODEs). This is larger then the number of unique molecular species because many of them exist in different states (e.g., phosphorylated vs dephosphorylated proteins) and/or in different compartments.
 
 
 ## Planned Updates
 
-We are constantly working to extend model's gene coverage. Currently, we are assessing additional gene-associated reactions to reach a complete coverage of the protein-coding genes and almost full coverage of the known non-coding RNA genes.
+We are constantly working to extend model's gene coverage. Currently, we are curating additional gene-associated reactions to reach a complete coverage of the protein-coding genes and almost full coverage of the known non-coding RNA genes.
 
 
 ## Further Reading
