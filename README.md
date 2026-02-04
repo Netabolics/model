@@ -8,11 +8,11 @@ This repository illustrates the features of our latest genome-scale generic mode
 
 ## Overview
 
-We constructed a human biological network (in the form of a directed hypergraph) through semi-automated extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. Presently, the network contains approx. 2M edges and 650k nodes (sum of species and reaction nodes; see table below). This is too large to be displayed here, but below we show an example of nearest-neighbors subnetworks using representative gene nodes (up to a distance of $d=2$ species nodes).
+We constructed a human biological network (in the form of a directed hypergraph) through semi-automated extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. Presently, the network contains approx. 2M edges and 650k nodes (sum of species and reaction nodes; see table below). This is too large to be displayed here, but here we show an example of nearest-neighbors subnetworks using representative gene nodes (up to a distance of $d=2$ species nodes).
 
 ![Subnetwork example](./nn_example.svg)
 
-The network is used to build a mechanistic, compartmentalized, generic model of cell biology as a systems of ordinary differential equations (ODEs). The generic model can be parametrized using public or private multiomics datasets to make it cell type- or tissue-specific, and used within our AI-Driven Biosimulation platform (https://netabolics.ai/) to perform dynamical (i.e., time-resolved) simulation.
+The network is used to build a mechanistic, compartmentalized, generic model of cell biology as a systems of ordinary differential equations (ODEs). The generic model can be parametrized using public or private multiomics datasets to make it cell type- or tissue-specific, and used within our AI-Driven Biosimulation platform (https://netabolics.ai/) to perform dynamical (i.e., time-resolved) simulation. The platform uses either a parallel ODE solver for ensemble simulation or a GPU-accelerated ODE solver for single simulation.
 
 
 ## Features
