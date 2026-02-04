@@ -8,7 +8,7 @@ This repository illustrates the features of our latest genome-scale generic mode
 
 ## Overview
 
-We constructed a human biological network (in the form of a directed hypergraph) through semi-automated extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. Presently, the network contains approx. 2M edges and 650k nodes. This is too large to be displayed here, but below we show an example of nearest-neighbors subnetworks using representative gene nodes (up to a distance of $d=2$ species nodes).
+We constructed a human biological network (in the form of a directed hypergraph) through semi-automated extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. Presently, the network contains approx. 2M edges and 650k nodes (sum of species and reaction nodes; see table below). This is too large to be displayed here, but below we show an example of nearest-neighbors subnetworks using representative gene nodes (up to a distance of $d=2$ species nodes).
 
 ![Subnetwork example](./nn_example.svg)
 
