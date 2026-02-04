@@ -28,7 +28,7 @@ Specifically, the model incorporates the components listed in the following tabl
 |              |  | intracellular | cytosol<br>mitochondrion (intermembrane space)<br>mitochondrion (matrix)<br>nucleus<br>(sarco)endoplasmic reticulum<br>Golgi apparatus<br>peroxisome<br>lysosome |
 | Genes | **15,132** | | see [`genes.csv`](genes.csv) |
 | Molecular Species | **49,010** (\*)
-| | | gene products | proteins (via mRNA)<br>&nbsp;&nbsp;*signaling proteins*<br>&nbsp;&nbsp;*transcription factors*<br>&nbsp;&nbsp;*enzymes*<br>&nbsp;&nbsp;*channels*<br>&nbsp;&nbsp;*transporters*<br>long non-coding RNAs (lncRNA)<br>micro RNAs (miRNA) |
+| | | gene products | proteins (via mRNA)<br>&nbsp;&nbsp;*signaling proteins*<br>&nbsp;&nbsp;*transcription factors*<br>&nbsp;&nbsp;*enzymes*<br>&nbsp;&nbsp;*channels/transporters*<br>long non-coding RNAs (lncRNA)<br>micro RNAs (miRNA) |
 | | | complexes | enzymatic, regulatory, etc. |
 | | | small molecules | metabolites<br>ions<br>cofactors<br>second messengers |
 | Gene-associated Reactions | **168,295**
@@ -36,14 +36,14 @@ Specifically, the model incorporates the components listed in the following tabl
 | | | gene regulation | upregulation/downregulation of gene expression |
 | | | complex formation | physical interactions, binding, etc. |
 | | | enzymatic catalysis | biosynthesis, energy metabolism, etc. |
-| | | intercompartment transport | transmembrane, carrier- or channel-mediated, etc. |
+| | | intercompartmental transport | transmembrane, carrier- or channel-mediated, etc. |
 
 (\*) As total molecular species (corresponding to the number of ODEs). This is larger then the number of unique molecular species because many of them exist in different states (e.g., phosphorylated vs dephosphorylated proteins) and/or in different compartments.
 
 
 ## Planned Updates
 
-We are constantly working to extend model's gene coverage. Currently, we are assessing the confidence of about half million additional gene-associated reactions to reach a complete coverage of the protein-coding genes and almost full coverage of the known non-coding RNA genes.
+We are constantly working to extend model's gene coverage. Currently, we are assessing additional gene-associated reactions to reach a complete coverage of the protein-coding genes and almost full coverage of the known non-coding RNA genes.
 
 
 ## Further Reading
