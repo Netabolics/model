@@ -1,14 +1,14 @@
 
 # Virtual cell model
 
-This repository illustrates the features of our latest genome-scale generic model of human cell biology.
+This repository illustrates the core features of our latest genome-scale generic model of human cell biology.
 
-> Version: `21.60.594`-`20260201T171236`
+> Version: `21.60.600`-`20260201T171236`
 
 
 ## Overview
 
-We constructed a human biological network (in the form of a directed hypergraph) through semi-automated extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. Presently, the network contains approx. 2M edges and 650k nodes (sum of species and reaction nodes; see table below). This is too large to be displayed here, but here we show an example of nearest-neighbors subnetworks using representative gene nodes (up to a distance of $d=2$ species nodes).
+We constructed a human biological network (in the form of a directed hypergraph) through semi-automated extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. Presently, the network contains approx. 2M edges and 660k nodes (sum of species and reaction nodes; see table below). This is too large to be displayed effectively, but here we show an example of nearest-neighbors subnetworks using representative gene nodes (up to a distance of $d=2$ species nodes; not all edges are portrayed).
 
 ![Subnetwork example](./nn_example.svg)
 
@@ -31,7 +31,7 @@ Specifically, the model incorporates the components listed in the following tabl
 | | | gene products | proteins (via mRNA)<br>&nbsp;&nbsp;*signaling proteins*<br>&nbsp;&nbsp;*transcription factors*<br>&nbsp;&nbsp;*enzymes*<br>&nbsp;&nbsp;*channels/transporters*<br>long non-coding RNAs (lncRNA)<br>micro RNAs (miRNA) |
 | | | complexes | enzymatic, regulatory, etc. |
 | | | small molecules | metabolites<br>ions<br>cofactors<br>second messengers |
-| Gene-associated Reactions | **594,352**
+| Gene-associated Reactions | **600,126**
 | | | signal transduction | activation/inactivation (kinases, phosphatases, receptors, G-proteins, etc.) |
 | | | gene regulation | upregulation/downregulation of gene expression |
 | | | complex formation | physical interactions, binding, etc. |
