@@ -3,16 +3,16 @@
 
 This repository illustrates the core features of our latest genome-scale generic model of human cell biology.
 
-> Version: `21.60.600`-`20260201T171236`
+> Version: `26.70.754`-`20260201T171236`
 
 
 ## Overview
 
-We constructed a human biological network (in the form of a directed hypergraph) through semi-automated extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. Presently, the network contains approx. 2M edges and 660k nodes (sum of species and reaction nodes; see table below). This is too large to be displayed effectively, but here we show an example of nearest-neighbors subnetworks using representative gene nodes (up to a distance of $d=2$ species nodes; not all edges are portrayed).
+We constructed a human biological network (in the form of a directed hypergraph) through semi-automated extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. Presently, the network contains approx. 2.5M edges and 824k nodes (sum of species and reaction nodes; see table below). This is too large to be displayed effectively, but here we show an example of nearest-neighbors subnetworks using representative gene nodes (up to a distance of $d=2$ species nodes; not all edges are portrayed).
 
 ![Subnetwork example](./nn_example.svg)
 
-The network is used to build a mechanistic, compartmentalized, generic model of cell biology as a systems of ordinary differential equations (ODEs). The generic model can be parametrized using public or private multiomics datasets to make it cell type- or tissue-specific, and used within our AI-Driven Biosimulation platform (https://netabolics.ai/) to perform dynamical (i.e., time-resolved) simulation. The platform uses either a parallel ODE solver for ensemble simulation or a GPU-accelerated ODE solver for single simulation.
+The network is used to build a mechanistic, compartmentalized, generic model of cell biology as a systems of ordinary differential equations (ODEs). The generic model can be parametrized using public or private multiomics datasets to make it cell type- or tissue-specific, and used within our AI-Driven Biosimulation platform (https://netabolics.ai/) to perform dynamical (i.e., time-resolved) simulation (see the [`demo`](https://github.com/Netabolics/demo) repository for an example). The platform uses either a parallel ODE solver for ensemble simulation or a GPU-accelerated ODE solver for single simulation. GPU-accelerated ensemble solving is feasible depending on the available VRAM.
 
 
 ## Features
@@ -26,12 +26,12 @@ Specifically, the model incorporates the components listed in the following tabl
 | Compartments | **9**+1 (\*)
 | | | extracellular | reservoir (e.g., blood) (\*)<br>extracellular space |
 |              |  | intracellular | cytosol<br>mitochondrion (intermembrane space)<br>mitochondrion (matrix)<br>nucleus<br>(sarco)endoplasmic reticulum<br>Golgi apparatus<br>peroxisome<br>lysosome |
-| Genes | **20,776** | | see [`genes.csv`](genes.csv) |
-| Molecular Species | **60,298** (\*\*)
+| Genes | **25,571** | | see [`genes.csv`](genes.csv) |
+| Molecular Species | **69,888** (\*\*)
 | | | gene products | proteins (via mRNA)<br>&nbsp;&nbsp;*signaling proteins*<br>&nbsp;&nbsp;*transcription factors*<br>&nbsp;&nbsp;*enzymes*<br>&nbsp;&nbsp;*channels/transporters*<br>long non-coding RNAs (lncRNA)<br>micro RNAs (miRNA) |
 | | | complexes | enzymatic, regulatory, etc. |
 | | | small molecules | metabolites<br>ions<br>cofactors<br>second messengers |
-| Gene-associated Reactions | **600,126**
+| Gene-associated Reactions | **754,043**
 | | | signal transduction | activation/inactivation (kinases, phosphatases, receptors, G-proteins, etc.) |
 | | | gene regulation | upregulation/downregulation of gene expression |
 | | | complex formation | physical interactions, binding, etc. |
@@ -42,6 +42,7 @@ Specifically, the model incorporates the components listed in the following tabl
 
 (\*\*) As total molecular species (corresponding to the number of ODEs). This is larger then the number of unique molecular species because many of them exist in different states (e.g., phosphorylated vs dephosphorylated proteins) and/or in different compartments.
 
+The model has a total of 3.3M parameters, including context-independent (stoichiometric, kinetic, catalytic, and thermodynamic) and context-dependent (initial conditions defining cell-specific network topology) parameters.
 
 ## Planned Updates
 
