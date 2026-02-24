@@ -3,7 +3,7 @@
 
 This repository illustrates the core features of our latest genome-scale generic model of human cell biology.
 
-> Version: `26.70.754`-`20260201T171236`
+> Version: `26.70.754`-`20260223T170622`
 
 
 ## Overview
