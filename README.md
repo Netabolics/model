@@ -1,14 +1,14 @@
 
 # Virtual cell model
 
-This repository illustrates the core features of our latest genome-scale generic model of human cell biology.
+This repository illustrates the core features of our latest (stable) genome-scale generic model of human cell biology.
 
-> Version: `26.70.754`-`20260223T170622`
+> Version: `21.60.659`-`20260226T192327`
 
 
 ## Overview
 
-We constructed a human biological network (in the form of a directed hypergraph) through semi-automated extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. Presently, the network contains approx. 2.5M edges and 824k nodes (sum of species and reaction nodes; see table below). This is too large to be displayed effectively, but here we show an example of nearest-neighbors subnetworks using representative gene nodes (up to a distance of $d=2$ species nodes; not all edges are portrayed).
+We constructed a human biological network (in the form of a directed hypergraph) through semi-automated extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. Presently, the network contains approx. 2.7M edges and 719K nodes (sum of species and reaction nodes; see table below). This is too large to be displayed effectively, but here we show an example of nearest-neighbors subnetworks using representative gene nodes (up to a distance of $d=2$ species nodes; not all edges are portrayed).
 
 ![Subnetwork example](./nn_example.svg)
 
@@ -26,12 +26,12 @@ Specifically, the model incorporates the components listed in the following tabl
 | Compartments | **9**+1 (\*)
 | | | extracellular | reservoir (e.g., blood) (\*)<br>extracellular space |
 |              |  | intracellular | cytosol<br>mitochondrion (intermembrane space)<br>mitochondrion (matrix)<br>nucleus<br>(sarco)endoplasmic reticulum<br>Golgi apparatus<br>peroxisome<br>lysosome |
-| Genes | **25,571** | | see [`genes.csv`](genes.csv) |
-| Molecular Species | **69,888** (\*\*)
+| Genes | **20,734** | | complete list in [`genes.csv`](genes.csv) |
+| Molecular Species | **60,214** (\*\*)
 | | | gene products | proteins (via mRNA)<br>&nbsp;&nbsp;*signaling proteins*<br>&nbsp;&nbsp;*transcription factors*<br>&nbsp;&nbsp;*enzymes*<br>&nbsp;&nbsp;*channels/transporters*<br>long non-coding RNAs (lncRNA)<br>micro RNAs (miRNA) |
 | | | complexes | enzymatic, regulatory, etc. |
 | | | small molecules | metabolites<br>ions<br>cofactors<br>second messengers |
-| Gene-associated Reactions | **754,043**
+| Gene-associated Reactions | **658,683**
 | | | signal transduction | activation/inactivation (kinases, phosphatases, receptors, G-proteins, etc.) |
 | | | gene regulation | upregulation/downregulation of gene expression |
 | | | complex formation | physical interactions, binding, etc. |
@@ -42,11 +42,11 @@ Specifically, the model incorporates the components listed in the following tabl
 
 (\*\*) As total molecular species (corresponding to the number of ODEs). This is larger then the number of unique molecular species because many of them exist in different states (e.g., phosphorylated vs dephosphorylated proteins) and/or in different compartments.
 
-The model has a total of 3.3M parameters, including context-independent (stoichiometric, kinetic, catalytic, and thermodynamic) and context-dependent (initial conditions defining cell-specific network topology) parameters.
+The model has a total of **3.3M parameters**, including context-independent (stoichiometric, kinetic, catalytic, and thermodynamic) and context-dependent (initial conditions defining state and cell-specific network topology) parameters.
 
 ## Planned Updates
 
-We are constantly working to extend model's gene coverage. Currently, we are curating additional gene-associated reactions to reach a complete coverage of the protein-coding genes and almost full coverage of the known non-coding RNA genes.
+We are constantly working to extend model's gene coverage. Currently, we are curating further gene-associated reactions to reach a complete coverage of the protein-coding genes and almost full coverage of the known non-coding RNA genes. The currently most significant planned update involves miRNA/lncRNA to target gene interactions (approx. 350K additional reactions involving ~5,000 additional genes).
 
 
 ## Further Reading
