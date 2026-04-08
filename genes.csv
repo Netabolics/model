@@ -73,6 +73,7 @@ ABCD4,68,https://identifiers.org/hgnc:68
 ABCE1,69,https://identifiers.org/hgnc:69
 ABCF1,70,https://identifiers.org/hgnc:70
 ABCF2,71,https://identifiers.org/hgnc:71
+ABCF2-H2BK1,54751,https://identifiers.org/hgnc:54751
 ABCF3,72,https://identifiers.org/hgnc:72
 ABCG1,73,https://identifiers.org/hgnc:73
 ABCG2,74,https://identifiers.org/hgnc:74
@@ -187,6 +188,7 @@ ACP6,29609,https://identifiers.org/hgnc:29609
 ACP7,33781,https://identifiers.org/hgnc:33781
 ACR,126,https://identifiers.org/hgnc:126
 ACRBP,17195,https://identifiers.org/hgnc:17195
+ACRP1,54745,https://identifiers.org/hgnc:54745
 ACRV1,127,https://identifiers.org/hgnc:127
 ACSBG1,29567,https://identifiers.org/hgnc:29567
 ACSBG2,24174,https://identifiers.org/hgnc:24174
@@ -316,6 +318,7 @@ ADCK2,19039,https://identifiers.org/hgnc:19039
 ADCK5,21738,https://identifiers.org/hgnc:21738
 ADCY1,232,https://identifiers.org/hgnc:232
 ADCY10,21285,https://identifiers.org/hgnc:21285
+ADCY10P1,44143,https://identifiers.org/hgnc:44143
 ADCY2,233,https://identifiers.org/hgnc:233
 ADCY3,234,https://identifiers.org/hgnc:234
 ADCY4,235,https://identifiers.org/hgnc:235
@@ -411,6 +414,7 @@ AFAP1,24017,https://identifiers.org/hgnc:24017
 AFAP1L1,26714,https://identifiers.org/hgnc:26714
 AFAP1L2,25901,https://identifiers.org/hgnc:25901
 AFDN,7137,https://identifiers.org/hgnc:7137
+AFDN-DT,21236,https://identifiers.org/hgnc:21236
 AFF1,7135,https://identifiers.org/hgnc:7135
 AFF2,3776,https://identifiers.org/hgnc:3776
 AFF3,6473,https://identifiers.org/hgnc:6473
@@ -747,10 +751,12 @@ ANKRD34C,33888,https://identifiers.org/hgnc:33888
 ANKRD35,26323,https://identifiers.org/hgnc:26323
 ANKRD36,24079,https://identifiers.org/hgnc:24079
 ANKRD36B,29333,https://identifiers.org/hgnc:29333
+ANKRD36BP1,28169,https://identifiers.org/hgnc:28169
 ANKRD36C,32946,https://identifiers.org/hgnc:32946
 ANKRD37,29593,https://identifiers.org/hgnc:29593
 ANKRD39,28640,https://identifiers.org/hgnc:28640
 ANKRD40,28233,https://identifiers.org/hgnc:28233
+ANKRD40CL,26080,https://identifiers.org/hgnc:26080
 ANKRD42,26752,https://identifiers.org/hgnc:26752
 ANKRD44,25259,https://identifiers.org/hgnc:25259
 ANKRD45,24786,https://identifiers.org/hgnc:24786
@@ -893,6 +899,7 @@ APOBR,24087,https://identifiers.org/hgnc:24087
 APOC1,607,https://identifiers.org/hgnc:607
 APOC2,609,https://identifiers.org/hgnc:609
 APOC3,610,https://identifiers.org/hgnc:610
+APOC4-APOC2,44426,https://identifiers.org/hgnc:44426
 APOD,612,https://identifiers.org/hgnc:612
 APOE,613,https://identifiers.org/hgnc:613
 APOF,615,https://identifiers.org/hgnc:615
@@ -965,6 +972,7 @@ ARHGAP15,21030,https://identifiers.org/hgnc:21030
 ARHGAP17,18239,https://identifiers.org/hgnc:18239
 ARHGAP18,21035,https://identifiers.org/hgnc:21035
 ARHGAP19,23724,https://identifiers.org/hgnc:23724
+ARHGAP19-SLIT1,48348,https://identifiers.org/hgnc:48348
 ARHGAP20,18357,https://identifiers.org/hgnc:18357
 ARHGAP21,23725,https://identifiers.org/hgnc:23725
 ARHGAP22,30320,https://identifiers.org/hgnc:30320
@@ -1048,6 +1056,7 @@ ARL16,27902,https://identifiers.org/hgnc:27902
 ARL17A,24096,https://identifiers.org/hgnc:24096
 ARL17B,32387,https://identifiers.org/hgnc:32387
 ARL2,693,https://identifiers.org/hgnc:693
+ARL2-SNX15,49197,https://identifiers.org/hgnc:49197
 ARL2BP,17146,https://identifiers.org/hgnc:17146
 ARL3,694,https://identifiers.org/hgnc:694
 ARL4A,695,https://identifiers.org/hgnc:695
@@ -1081,6 +1090,7 @@ ARMCX2,16869,https://identifiers.org/hgnc:16869
 ARMCX3,24065,https://identifiers.org/hgnc:24065
 ARMCX4,28615,https://identifiers.org/hgnc:28615
 ARMCX5,25772,https://identifiers.org/hgnc:25772
+ARMCX5-GPRASP2,42000,https://identifiers.org/hgnc:42000
 ARMCX6,26094,https://identifiers.org/hgnc:26094
 ARMH1,34345,https://identifiers.org/hgnc:34345
 ARMH2,49394,https://identifiers.org/hgnc:49394
@@ -1102,11 +1112,13 @@ ARPC5L,23366,https://identifiers.org/hgnc:23366
 ARPIN,28782,https://identifiers.org/hgnc:28782
 ARPIN-AP3S2,38824,https://identifiers.org/hgnc:38824
 ARPP19,16967,https://identifiers.org/hgnc:16967
+ARPP19P2,54699,https://identifiers.org/hgnc:54699
 ARPP21,16968,https://identifiers.org/hgnc:16968
 ARR3,710,https://identifiers.org/hgnc:710
 ARRB1,711,https://identifiers.org/hgnc:711
 ARRB2,712,https://identifiers.org/hgnc:712
 ARRDC1,28633,https://identifiers.org/hgnc:28633
+ARRDC1-AS1,23395,https://identifiers.org/hgnc:23395
 ARRDC2,25225,https://identifiers.org/hgnc:25225
 ARRDC3,29263,https://identifiers.org/hgnc:29263
 ARRDC4,28087,https://identifiers.org/hgnc:28087
@@ -1432,6 +1444,7 @@ B4GAT1,15685,https://identifiers.org/hgnc:15685
 B9D1,24123,https://identifiers.org/hgnc:24123
 B9D2,28636,https://identifiers.org/hgnc:28636
 BAALC,14333,https://identifiers.org/hgnc:14333
+BAALC-AS2,28595,https://identifiers.org/hgnc:28595
 BAAT,932,https://identifiers.org/hgnc:932
 BABAM1,25008,https://identifiers.org/hgnc:25008
 BABAM2,1106,https://identifiers.org/hgnc:1106
@@ -1447,6 +1460,7 @@ BAG3,939,https://identifiers.org/hgnc:939
 BAG4,940,https://identifiers.org/hgnc:940
 BAG5,941,https://identifiers.org/hgnc:941
 BAG6,13919,https://identifiers.org/hgnc:13919
+BAGE2,15723,https://identifiers.org/hgnc:15723
 BAHCC1,29279,https://identifiers.org/hgnc:29279
 BAHD1,29153,https://identifiers.org/hgnc:29153
 BAIAP2,947,https://identifiers.org/hgnc:947
@@ -1662,6 +1676,8 @@ BOD1L1,31792,https://identifiers.org/hgnc:31792
 BOD1L2,28505,https://identifiers.org/hgnc:28505
 BOK,1087,https://identifiers.org/hgnc:1087
 BOLA1,24263,https://identifiers.org/hgnc:24263
+BOLA2,29488,https://identifiers.org/hgnc:29488
+BOLA2-SMG1P6,53563,https://identifiers.org/hgnc:53563
 BOLA2B,32479,https://identifiers.org/hgnc:32479
 BOLA3,24415,https://identifiers.org/hgnc:24415
 BOLL,14273,https://identifiers.org/hgnc:14273
@@ -1689,6 +1705,7 @@ BPNT1,1096,https://identifiers.org/hgnc:1096
 BPNT2,26019,https://identifiers.org/hgnc:26019
 BPTF,3581,https://identifiers.org/hgnc:3581
 BPY2,13508,https://identifiers.org/hgnc:13508
+BPY2C,18225,https://identifiers.org/hgnc:18225
 BRAF,1097,https://identifiers.org/hgnc:1097
 BRAP,1099,https://identifiers.org/hgnc:1099
 BRAT1,21701,https://identifiers.org/hgnc:21701
@@ -1801,6 +1818,7 @@ C11ORF21,13231,https://identifiers.org/hgnc:13231
 C11ORF24,1174,https://identifiers.org/hgnc:1174
 C11ORF40,23986,https://identifiers.org/hgnc:23986
 C11ORF42,28541,https://identifiers.org/hgnc:28541
+C11ORF52,30531,https://identifiers.org/hgnc:30531
 C11ORF54,30204,https://identifiers.org/hgnc:30204
 C11ORF58,16990,https://identifiers.org/hgnc:16990
 C11ORF65,28519,https://identifiers.org/hgnc:28519
@@ -1845,9 +1863,11 @@ C16ORF87,33754,https://identifiers.org/hgnc:33754
 C16ORF89,28687,https://identifiers.org/hgnc:28687
 C16ORF90,34455,https://identifiers.org/hgnc:34455
 C16ORF92,26346,https://identifiers.org/hgnc:26346
+C16ORF95,40033,https://identifiers.org/hgnc:40033
 C16ORF96,40031,https://identifiers.org/hgnc:40031
 C17ORF100,34494,https://identifiers.org/hgnc:34494
 C17ORF107,37238,https://identifiers.org/hgnc:37238
+C17ORF113,53437,https://identifiers.org/hgnc:53437
 C17ORF50,29581,https://identifiers.org/hgnc:29581
 C17ORF58,27568,https://identifiers.org/hgnc:27568
 C17ORF67,27900,https://identifiers.org/hgnc:27900
@@ -1915,6 +1935,7 @@ C1QTNF1,14324,https://identifiers.org/hgnc:14324
 C1QTNF12,32308,https://identifiers.org/hgnc:32308
 C1QTNF2,14325,https://identifiers.org/hgnc:14325
 C1QTNF3,14326,https://identifiers.org/hgnc:14326
+C1QTNF3-AMACR,49198,https://identifiers.org/hgnc:49198
 C1QTNF4,14346,https://identifiers.org/hgnc:14346
 C1QTNF5,14344,https://identifiers.org/hgnc:14344
 C1QTNF6,14343,https://identifiers.org/hgnc:14343
@@ -1973,6 +1994,7 @@ C3ORF22,28534,https://identifiers.org/hgnc:28534
 C3ORF33,26434,https://identifiers.org/hgnc:26434
 C3ORF36,26170,https://identifiers.org/hgnc:26170
 C3ORF38,28384,https://identifiers.org/hgnc:28384
+C3ORF49,25190,https://identifiers.org/hgnc:25190
 C3ORF52,26255,https://identifiers.org/hgnc:26255
 C3ORF62,24771,https://identifiers.org/hgnc:24771
 C3ORF70,33731,https://identifiers.org/hgnc:33731
@@ -1989,6 +2011,7 @@ C4ORF33,27025,https://identifiers.org/hgnc:27025
 C4ORF36,28386,https://identifiers.org/hgnc:28386
 C4ORF46,27320,https://identifiers.org/hgnc:27320
 C4ORF50,33766,https://identifiers.org/hgnc:33766
+C4ORF54,27741,https://identifiers.org/hgnc:27741
 C5,1331,https://identifiers.org/hgnc:1331
 C5AR1,1338,https://identifiers.org/hgnc:1338
 C5AR2,4527,https://identifiers.org/hgnc:4527
@@ -2025,6 +2048,7 @@ C8G,1354,https://identifiers.org/hgnc:1354
 C8ORF17,17737,https://identifiers.org/hgnc:17737
 C8ORF33,26104,https://identifiers.org/hgnc:26104
 C8ORF34,30905,https://identifiers.org/hgnc:30905
+C8ORF34-AS1,27840,https://identifiers.org/hgnc:27840
 C8ORF44,25646,https://identifiers.org/hgnc:25646
 C8ORF44-SGK3,48354,https://identifiers.org/hgnc:48354
 C8ORF48,26345,https://identifiers.org/hgnc:26345
@@ -2295,6 +2319,7 @@ CBX7,1557,https://identifiers.org/hgnc:1557
 CBX8,15962,https://identifiers.org/hgnc:15962
 CBY1,1307,https://identifiers.org/hgnc:1307
 CBY2,30720,https://identifiers.org/hgnc:30720
+CBY3,33278,https://identifiers.org/hgnc:33278
 CC2D1A,30237,https://identifiers.org/hgnc:30237
 CC2D1B,29386,https://identifiers.org/hgnc:29386
 CC2D2A,29253,https://identifiers.org/hgnc:29253
@@ -2371,6 +2396,7 @@ CCDC188,51899,https://identifiers.org/hgnc:51899
 CCDC190,28736,https://identifiers.org/hgnc:28736
 CCDC191,29272,https://identifiers.org/hgnc:29272
 CCDC196,20100,https://identifiers.org/hgnc:20100
+CCDC197,19860,https://identifiers.org/hgnc:19860
 CCDC198,20189,https://identifiers.org/hgnc:20189
 CCDC200,43658,https://identifiers.org/hgnc:43658
 CCDC22,28909,https://identifiers.org/hgnc:28909
@@ -2636,6 +2662,7 @@ CDAN1,1713,https://identifiers.org/hgnc:1713
 CDC123,16827,https://identifiers.org/hgnc:16827
 CDC14A,1718,https://identifiers.org/hgnc:1718
 CDC14B,1719,https://identifiers.org/hgnc:1719
+CDC14C,22427,https://identifiers.org/hgnc:22427
 CDC16,1720,https://identifiers.org/hgnc:1720
 CDC20,1723,https://identifiers.org/hgnc:1723
 CDC20B,24222,https://identifiers.org/hgnc:24222
@@ -2731,6 +2758,7 @@ CDK5RAP2,18672,https://identifiers.org/hgnc:18672
 CDK5RAP3,18673,https://identifiers.org/hgnc:18673
 CDK6,1777,https://identifiers.org/hgnc:1777
 CDK7,1778,https://identifiers.org/hgnc:1778
+CDK7P1,18614,https://identifiers.org/hgnc:18614
 CDK8,1779,https://identifiers.org/hgnc:1779
 CDK9,1780,https://identifiers.org/hgnc:1780
 CDKAL1,21050,https://identifiers.org/hgnc:21050
@@ -2759,6 +2787,7 @@ CDR2,1799,https://identifiers.org/hgnc:1799
 CDR2L,29999,https://identifiers.org/hgnc:29999
 CDRT15,14395,https://identifiers.org/hgnc:14395
 CDRT15L2,34075,https://identifiers.org/hgnc:34075
+CDRT15P1,33168,https://identifiers.org/hgnc:33168
 CDRT4,14383,https://identifiers.org/hgnc:14383
 CDS1,1800,https://identifiers.org/hgnc:1800
 CDS2,1801,https://identifiers.org/hgnc:1801
@@ -2835,6 +2864,7 @@ CENPS-CORT,38843,https://identifiers.org/hgnc:38843
 CENPT,25787,https://identifiers.org/hgnc:25787
 CENPU,21348,https://identifiers.org/hgnc:21348
 CENPV,29920,https://identifiers.org/hgnc:29920
+CENPVL3,43880,https://identifiers.org/hgnc:43880
 CENPW,21488,https://identifiers.org/hgnc:21488
 CENPX,11422,https://identifiers.org/hgnc:11422
 CEP104,24866,https://identifiers.org/hgnc:24866
@@ -3140,6 +3170,7 @@ CIP2A,29302,https://identifiers.org/hgnc:29302
 CIPC,20365,https://identifiers.org/hgnc:20365
 CIR1,24217,https://identifiers.org/hgnc:24217
 CIRBP,1982,https://identifiers.org/hgnc:1982
+CIROP,53647,https://identifiers.org/hgnc:53647
 CISD1,30880,https://identifiers.org/hgnc:30880
 CISD2,24212,https://identifiers.org/hgnc:24212
 CISD3,27578,https://identifiers.org/hgnc:27578
@@ -3161,6 +3192,7 @@ CKM,1994,https://identifiers.org/hgnc:1994
 CKMT1A,31736,https://identifiers.org/hgnc:31736
 CKMT1B,1995,https://identifiers.org/hgnc:1995
 CKMT2,1996,https://identifiers.org/hgnc:1996
+CKMT2-AS1,48997,https://identifiers.org/hgnc:48997
 CKS1B,19083,https://identifiers.org/hgnc:19083
 CKS2,2000,https://identifiers.org/hgnc:2000
 CLASP1,17088,https://identifiers.org/hgnc:17088
@@ -3343,6 +3375,7 @@ CNMD,17005,https://identifiers.org/hgnc:17005
 CNN1,2155,https://identifiers.org/hgnc:2155
 CNN2,2156,https://identifiers.org/hgnc:2156
 CNN3,2157,https://identifiers.org/hgnc:2157
+CNN3P1,38666,https://identifiers.org/hgnc:38666
 CNNM1,102,https://identifiers.org/hgnc:102
 CNNM2,103,https://identifiers.org/hgnc:103
 CNNM3,104,https://identifiers.org/hgnc:104
@@ -3382,6 +3415,7 @@ CNTNAP1,8011,https://identifiers.org/hgnc:8011
 CNTNAP2,13830,https://identifiers.org/hgnc:13830
 CNTNAP3,13834,https://identifiers.org/hgnc:13834
 CNTNAP3B,32035,https://identifiers.org/hgnc:32035
+CNTNAP3C,53878,https://identifiers.org/hgnc:53878
 CNTNAP4,18747,https://identifiers.org/hgnc:18747
 CNTNAP5,18748,https://identifiers.org/hgnc:18748
 CNTRL,1858,https://identifiers.org/hgnc:1858
@@ -3769,6 +3803,8 @@ CT45A1,33267,https://identifiers.org/hgnc:33267
 CT45A2,28400,https://identifiers.org/hgnc:28400
 CT45A5,33270,https://identifiers.org/hgnc:33270
 CT45A6,33271,https://identifiers.org/hgnc:33271
+CT45A7,51260,https://identifiers.org/hgnc:51260
+CT45A9,51262,https://identifiers.org/hgnc:51262
 CT47A1,33282,https://identifiers.org/hgnc:33282
 CT47A12,33292,https://identifiers.org/hgnc:33292
 CT47A2,33283,https://identifiers.org/hgnc:33283
@@ -3939,6 +3975,7 @@ CYP1A1,2595,https://identifiers.org/hgnc:2595
 CYP1A2,2596,https://identifiers.org/hgnc:2596
 CYP1B1,2597,https://identifiers.org/hgnc:2597
 CYP20A1,20576,https://identifiers.org/hgnc:20576
+CYP21A1P,2599,https://identifiers.org/hgnc:2599
 CYP21A2,2600,https://identifiers.org/hgnc:2600
 CYP24A1,2602,https://identifiers.org/hgnc:2602
 CYP26A1,2603,https://identifiers.org/hgnc:2603
@@ -4194,6 +4231,7 @@ DEFA6,2765,https://identifiers.org/hgnc:2765
 DEFB1,2766,https://identifiers.org/hgnc:2766
 DEFB103B,31702,https://identifiers.org/hgnc:31702
 DEFB104A,18115,https://identifiers.org/hgnc:18115
+DEFB104B,26165,https://identifiers.org/hgnc:26165
 DEFB105A,18087,https://identifiers.org/hgnc:18087
 DEFB106A,18088,https://identifiers.org/hgnc:18088
 DEFB107B,31918,https://identifiers.org/hgnc:31918
@@ -4246,6 +4284,7 @@ DENND6B,32690,https://identifiers.org/hgnc:32690
 DENR,2769,https://identifiers.org/hgnc:2769
 DEPDC1,22949,https://identifiers.org/hgnc:22949
 DEPDC1B,24902,https://identifiers.org/hgnc:24902
+DEPDC4,22952,https://identifiers.org/hgnc:22952
 DEPDC5,18423,https://identifiers.org/hgnc:18423
 DEPDC7,29899,https://identifiers.org/hgnc:29899
 DEPP1,23355,https://identifiers.org/hgnc:23355
@@ -4289,6 +4328,7 @@ DHDDS,20603,https://identifiers.org/hgnc:20603
 DHDH,17887,https://identifiers.org/hgnc:17887
 DHFR,2861,https://identifiers.org/hgnc:2861
 DHFR2,27309,https://identifiers.org/hgnc:27309
+DHFRP1,2862,https://identifiers.org/hgnc:2862
 DHH,2865,https://identifiers.org/hgnc:2865
 DHODH,2867,https://identifiers.org/hgnc:2867
 DHPS,2869,https://identifiers.org/hgnc:2869
@@ -4804,10 +4844,12 @@ EEF1A2,3192,https://identifiers.org/hgnc:3192
 EEF1AKMT1,27351,https://identifiers.org/hgnc:27351
 EEF1AKMT2,33787,https://identifiers.org/hgnc:33787
 EEF1AKMT3,24936,https://identifiers.org/hgnc:24936
+EEF1AKMT4,53611,https://identifiers.org/hgnc:53611
 EEF1B2,3208,https://identifiers.org/hgnc:3208
 EEF1B2P2,3209,https://identifiers.org/hgnc:3209
 EEF1D,3211,https://identifiers.org/hgnc:3211
 EEF1E1,3212,https://identifiers.org/hgnc:3212
+EEF1E1-BLOC1S5,49187,https://identifiers.org/hgnc:49187
 EEF1G,3213,https://identifiers.org/hgnc:3213
 EEF2,3214,https://identifiers.org/hgnc:3214
 EEF2K,24615,https://identifiers.org/hgnc:24615
@@ -5260,6 +5302,7 @@ EXO5,26115,https://identifiers.org/hgnc:26115
 EXOC1,30380,https://identifiers.org/hgnc:30380
 EXOC2,24968,https://identifiers.org/hgnc:24968
 EXOC3,30378,https://identifiers.org/hgnc:30378
+EXOC3-AS1,25175,https://identifiers.org/hgnc:25175
 EXOC3L1,27540,https://identifiers.org/hgnc:27540
 EXOC3L2,30162,https://identifiers.org/hgnc:30162
 EXOC3L4,20120,https://identifiers.org/hgnc:20120
@@ -5310,6 +5353,7 @@ F5,3542,https://identifiers.org/hgnc:3542
 F7,3544,https://identifiers.org/hgnc:3544
 F8,3546,https://identifiers.org/hgnc:3546
 F8A1,3547,https://identifiers.org/hgnc:3547
+F8A3,31850,https://identifiers.org/hgnc:31850
 F9,3551,https://identifiers.org/hgnc:3551
 FA2H,21197,https://identifiers.org/hgnc:21197
 FAAH,3553,https://identifiers.org/hgnc:3553
@@ -5416,6 +5460,7 @@ FAM184B,29235,https://identifiers.org/hgnc:29235
 FAM185A,22412,https://identifiers.org/hgnc:22412
 FAM186A,26980,https://identifiers.org/hgnc:26980
 FAM186B,25296,https://identifiers.org/hgnc:25296
+FAM187A,35153,https://identifiers.org/hgnc:35153
 FAM187B,26366,https://identifiers.org/hgnc:26366
 FAM193A,16822,https://identifiers.org/hgnc:16822
 FAM193B,25524,https://identifiers.org/hgnc:25524
@@ -5454,6 +5499,7 @@ FAM234A,14163,https://identifiers.org/hgnc:14163
 FAM234B,29288,https://identifiers.org/hgnc:29288
 FAM236B,52640,https://identifiers.org/hgnc:52640
 FAM237A,52388,https://identifiers.org/hgnc:52388
+FAM237B,53217,https://identifiers.org/hgnc:53217
 FAM240A,52390,https://identifiers.org/hgnc:52390
 FAM241A,26813,https://identifiers.org/hgnc:26813
 FAM241B,23519,https://identifiers.org/hgnc:23519
@@ -5508,6 +5554,7 @@ FAM91A1,26306,https://identifiers.org/hgnc:26306
 FAM98A,24520,https://identifiers.org/hgnc:24520
 FAM98B,26773,https://identifiers.org/hgnc:26773
 FAM98C,27119,https://identifiers.org/hgnc:27119
+FAM99A,32368,https://identifiers.org/hgnc:32368
 FAM9A,18403,https://identifiers.org/hgnc:18403
 FAM9B,18404,https://identifiers.org/hgnc:18404
 FAM9C,18405,https://identifiers.org/hgnc:18405
@@ -5827,6 +5874,7 @@ FMO2,3770,https://identifiers.org/hgnc:3770
 FMO3,3771,https://identifiers.org/hgnc:3771
 FMO4,3772,https://identifiers.org/hgnc:3772
 FMO5,3773,https://identifiers.org/hgnc:3773
+FMO9P,32210,https://identifiers.org/hgnc:32210
 FMOD,3774,https://identifiers.org/hgnc:3774
 FMR1,3775,https://identifiers.org/hgnc:3775
 FMR1NB,26372,https://identifiers.org/hgnc:26372
@@ -5883,6 +5931,7 @@ FOXG1,3811,https://identifiers.org/hgnc:3811
 FOXH1,3814,https://identifiers.org/hgnc:3814
 FOXI1,3815,https://identifiers.org/hgnc:3815
 FOXI2,32448,https://identifiers.org/hgnc:32448
+FOXI3,35123,https://identifiers.org/hgnc:35123
 FOXJ1,3816,https://identifiers.org/hgnc:3816
 FOXJ2,24818,https://identifiers.org/hgnc:24818
 FOXJ3,29178,https://identifiers.org/hgnc:29178
@@ -6076,6 +6125,12 @@ GADD45B,4096,https://identifiers.org/hgnc:4096
 GADD45G,4097,https://identifiers.org/hgnc:4097
 GADD45GIP1,29996,https://identifiers.org/hgnc:29996
 GADL1,27949,https://identifiers.org/hgnc:27949
+GAGE1,4098,https://identifiers.org/hgnc:4098
+GAGE12B,26779,https://identifiers.org/hgnc:26779
+GAGE12D,31904,https://identifiers.org/hgnc:31904
+GAGE12E,31905,https://identifiers.org/hgnc:31905
+GAGE12F,31906,https://identifiers.org/hgnc:31906
+GAGE12H,31908,https://identifiers.org/hgnc:31908
 GAK,4113,https://identifiers.org/hgnc:4113
 GAL,4114,https://identifiers.org/hgnc:4114
 GAL3ST1,24240,https://identifiers.org/hgnc:24240
@@ -6243,6 +6298,7 @@ GEMIN7,20045,https://identifiers.org/hgnc:20045
 GEMIN8,26044,https://identifiers.org/hgnc:26044
 GEN1,26881,https://identifiers.org/hgnc:26881
 GET1,12790,https://identifiers.org/hgnc:12790
+GET1-SH3BGR,54635,https://identifiers.org/hgnc:54635
 GET3,752,https://identifiers.org/hgnc:752
 GET4,21690,https://identifiers.org/hgnc:21690
 GFAP,4235,https://identifiers.org/hgnc:4235
@@ -6545,6 +6601,7 @@ GPBAR1,19680,https://identifiers.org/hgnc:19680
 GPBP1,29520,https://identifiers.org/hgnc:29520
 GPBP1L1,28843,https://identifiers.org/hgnc:28843
 GPC1,4449,https://identifiers.org/hgnc:4449
+GPC1-AS1,56102,https://identifiers.org/hgnc:56102
 GPC2,4450,https://identifiers.org/hgnc:4450
 GPC3,4451,https://identifiers.org/hgnc:4451
 GPC4,4452,https://identifiers.org/hgnc:4452
@@ -6664,6 +6721,7 @@ GPSM3,13945,https://identifiers.org/hgnc:13945
 GPT,4552,https://identifiers.org/hgnc:4552
 GPT2,18062,https://identifiers.org/hgnc:18062
 GPX1,4553,https://identifiers.org/hgnc:4553
+GPX1P1,4560,https://identifiers.org/hgnc:4560
 GPX1P2,4561,https://identifiers.org/hgnc:4561
 GPX2,4554,https://identifiers.org/hgnc:4554
 GPX3,4555,https://identifiers.org/hgnc:4555
@@ -6802,6 +6860,7 @@ GTF2I,4659,https://identifiers.org/hgnc:4659
 GTF2IRD1,4661,https://identifiers.org/hgnc:4661
 GTF2IRD2,30775,https://identifiers.org/hgnc:30775
 GTF2IRD2B,33125,https://identifiers.org/hgnc:33125
+GTF2IRD2P1,33127,https://identifiers.org/hgnc:33127
 GTF3A,4662,https://identifiers.org/hgnc:4662
 GTF3C1,4664,https://identifiers.org/hgnc:4664
 GTF3C2,4665,https://identifiers.org/hgnc:4665
@@ -6838,6 +6897,7 @@ GUF1,25799,https://identifiers.org/hgnc:25799
 GUK1,4693,https://identifiers.org/hgnc:4693
 GULP1,18649,https://identifiers.org/hgnc:18649
 GUSB,4696,https://identifiers.org/hgnc:4696
+GVQW3,51239,https://identifiers.org/hgnc:51239
 GXYLT1,27482,https://identifiers.org/hgnc:27482
 GXYLT2,33383,https://identifiers.org/hgnc:33383
 GYG1,4699,https://identifiers.org/hgnc:4699
@@ -6892,6 +6952,7 @@ H2AZ1,4741,https://identifiers.org/hgnc:4741
 H2AZ2,20664,https://identifiers.org/hgnc:20664
 H2AZ2-DT,52775,https://identifiers.org/hgnc:52775
 H2BC1,18730,https://identifiers.org/hgnc:18730
+H2BC10,4756,https://identifiers.org/hgnc:4756
 H2BC11,4761,https://identifiers.org/hgnc:4761
 H2BC12,13954,https://identifiers.org/hgnc:13954
 H2BC12L,4762,https://identifiers.org/hgnc:4762
@@ -6900,6 +6961,7 @@ H2BC14,4750,https://identifiers.org/hgnc:4750
 H2BC15,4749,https://identifiers.org/hgnc:4749
 H2BC17,4758,https://identifiers.org/hgnc:4758
 H2BC18,24700,https://identifiers.org/hgnc:24700
+H2BC19P,20517,https://identifiers.org/hgnc:20517
 H2BC20P,20516,https://identifiers.org/hgnc:20516
 H2BC21,4760,https://identifiers.org/hgnc:4760
 H2BC26,20514,https://identifiers.org/hgnc:20514
@@ -6907,6 +6969,7 @@ H2BC3,4751,https://identifiers.org/hgnc:4751
 H2BC4,4757,https://identifiers.org/hgnc:4757
 H2BC5,4747,https://identifiers.org/hgnc:4747
 H2BC6,4753,https://identifiers.org/hgnc:4753
+H2BC7,4752,https://identifiers.org/hgnc:4752
 H2BC8,4746,https://identifiers.org/hgnc:4746
 H2BC9,4755,https://identifiers.org/hgnc:4755
 H2BK1,53833,https://identifiers.org/hgnc:53833
@@ -6923,8 +6986,10 @@ H3C11,4771,https://identifiers.org/hgnc:4771
 H3C12,4774,https://identifiers.org/hgnc:4774
 H3C13,25311,https://identifiers.org/hgnc:25311
 H3C14,20503,https://identifiers.org/hgnc:20503
+H3C15,20505,https://identifiers.org/hgnc:20505
 H3C2,4776,https://identifiers.org/hgnc:4776
 H3C3,4768,https://identifiers.org/hgnc:4768
+H3C4,4767,https://identifiers.org/hgnc:4767
 H3C6,4769,https://identifiers.org/hgnc:4769
 H3C7,4773,https://identifiers.org/hgnc:4773
 H3C8,4772,https://identifiers.org/hgnc:4772
@@ -6936,6 +7001,7 @@ H4C11,4785,https://identifiers.org/hgnc:4785
 H4C12,4784,https://identifiers.org/hgnc:4784
 H4C13,4791,https://identifiers.org/hgnc:4791
 H4C14,4794,https://identifiers.org/hgnc:4794
+H4C15,29607,https://identifiers.org/hgnc:29607
 H4C16,20510,https://identifiers.org/hgnc:20510
 H4C2,4789,https://identifiers.org/hgnc:4789
 H4C3,4787,https://identifiers.org/hgnc:4787
@@ -7234,6 +7300,7 @@ HNMT,5028,https://identifiers.org/hgnc:5028
 HNRNPA0,5030,https://identifiers.org/hgnc:5030
 HNRNPA1,5031,https://identifiers.org/hgnc:5031
 HNRNPA1L2,27067,https://identifiers.org/hgnc:27067
+HNRNPA1L3,48778,https://identifiers.org/hgnc:48778
 HNRNPA1P1,13957,https://identifiers.org/hgnc:13957
 HNRNPA1P23,39541,https://identifiers.org/hgnc:39541
 HNRNPA1P57,48787,https://identifiers.org/hgnc:48787
@@ -7402,6 +7469,7 @@ HSP90AA4P,5255,https://identifiers.org/hgnc:5255
 HSP90AB1,5258,https://identifiers.org/hgnc:5258
 HSP90AB2P,32537,https://identifiers.org/hgnc:32537
 HSP90B1,12028,https://identifiers.org/hgnc:12028
+HSP90B3P,12100,https://identifiers.org/hgnc:12100
 HSPA12A,19022,https://identifiers.org/hgnc:19022
 HSPA12B,16193,https://identifiers.org/hgnc:16193
 HSPA13,11375,https://identifiers.org/hgnc:11375
@@ -7413,6 +7481,7 @@ HSPA2,5235,https://identifiers.org/hgnc:5235
 HSPA4,5237,https://identifiers.org/hgnc:5237
 HSPA4L,17041,https://identifiers.org/hgnc:17041
 HSPA5,5238,https://identifiers.org/hgnc:5238
+HSPA5P1,54532,https://identifiers.org/hgnc:54532
 HSPA6,5239,https://identifiers.org/hgnc:5239
 HSPA8,5241,https://identifiers.org/hgnc:5241
 HSPA8P13,44928,https://identifiers.org/hgnc:44928
@@ -7437,6 +7506,7 @@ HSPH1,16969,https://identifiers.org/hgnc:16969
 HTATIP2,16637,https://identifiers.org/hgnc:16637
 HTATSF1,5276,https://identifiers.org/hgnc:5276
 HTATSF1P2,38586,https://identifiers.org/hgnc:38586
+HTD2,53111,https://identifiers.org/hgnc:53111
 HTN1,5283,https://identifiers.org/hgnc:5283
 HTN3,5284,https://identifiers.org/hgnc:5284
 HTR1A,5286,https://identifiers.org/hgnc:5286
@@ -7604,6 +7674,7 @@ IGF1R,5465,https://identifiers.org/hgnc:5465
 IGF2,5466,https://identifiers.org/hgnc:5466
 IGF2BP1,28866,https://identifiers.org/hgnc:28866
 IGF2BP2,28867,https://identifiers.org/hgnc:28867
+IGF2BP2-AS1,32674,https://identifiers.org/hgnc:32674
 IGF2BP3,28868,https://identifiers.org/hgnc:28868
 IGF2R,5467,https://identifiers.org/hgnc:5467
 IGFALS,5468,https://identifiers.org/hgnc:5468
@@ -7638,11 +7709,17 @@ IGKV1-16,5732,https://identifiers.org/hgnc:5732
 IGKV1-17,5733,https://identifiers.org/hgnc:5733
 IGKV1-6,5742,https://identifiers.org/hgnc:5742
 IGL,5853,https://identifiers.org/hgnc:5853
+IGLC1,5855,https://identifiers.org/hgnc:5855
+IGLC2,5856,https://identifiers.org/hgnc:5856
+IGLC3,5857,https://identifiers.org/hgnc:5857
+IGLC6,5860,https://identifiers.org/hgnc:5860
 IGLL1,5870,https://identifiers.org/hgnc:5870
 IGLL2P,5871,https://identifiers.org/hgnc:5871
 IGLL3P,5872,https://identifiers.org/hgnc:5872
 IGLL5,38476,https://identifiers.org/hgnc:38476
 IGLON5,34550,https://identifiers.org/hgnc:34550
+IGLV1-47,5880,https://identifiers.org/hgnc:5880
+IGLV3-10,5897,https://identifiers.org/hgnc:5897
 IGSF1,5948,https://identifiers.org/hgnc:5948
 IGSF10,26384,https://identifiers.org/hgnc:26384
 IGSF11,16669,https://identifiers.org/hgnc:16669
@@ -7796,6 +7873,7 @@ INIP,24994,https://identifiers.org/hgnc:24994
 INKA1,32480,https://identifiers.org/hgnc:32480
 INKA2,28045,https://identifiers.org/hgnc:28045
 INMT,6069,https://identifiers.org/hgnc:6069
+INMT-MINDY4,41995,https://identifiers.org/hgnc:41995
 INO80,26956,https://identifiers.org/hgnc:26956
 INO80B,13324,https://identifiers.org/hgnc:13324
 INO80B-WBP1,49199,https://identifiers.org/hgnc:49199
@@ -7878,6 +7956,7 @@ IQCH,25721,https://identifiers.org/hgnc:25721
 IQCJ,32406,https://identifiers.org/hgnc:32406
 IQCJ-SCHIP1,38842,https://identifiers.org/hgnc:38842
 IQCK,28556,https://identifiers.org/hgnc:28556
+IQCM,53443,https://identifiers.org/hgnc:53443
 IQCN,29350,https://identifiers.org/hgnc:29350
 IQGAP1,6110,https://identifiers.org/hgnc:6110
 IQGAP2,6111,https://identifiers.org/hgnc:6111
@@ -8067,6 +8146,7 @@ KANSL1,24565,https://identifiers.org/hgnc:24565
 KANSL1L,26310,https://identifiers.org/hgnc:26310
 KANSL2,26024,https://identifiers.org/hgnc:26024
 KANSL3,25473,https://identifiers.org/hgnc:25473
+KANTR,49510,https://identifiers.org/hgnc:49510
 KARS1,6215,https://identifiers.org/hgnc:6215
 KARS1P1,39207,https://identifiers.org/hgnc:39207
 KASH5,26520,https://identifiers.org/hgnc:26520
@@ -8103,6 +8183,7 @@ KCNA2,6220,https://identifiers.org/hgnc:6220
 KCNA3,6221,https://identifiers.org/hgnc:6221
 KCNA4,6222,https://identifiers.org/hgnc:6222
 KCNA5,6224,https://identifiers.org/hgnc:6224
+KCNA6,6225,https://identifiers.org/hgnc:6225
 KCNA7,6226,https://identifiers.org/hgnc:6226
 KCNAB1,6228,https://identifiers.org/hgnc:6228
 KCNAB2,6229,https://identifiers.org/hgnc:6229
@@ -8615,6 +8696,7 @@ KRTAP4-12,16776,https://identifiers.org/hgnc:16776
 KRTAP4-2,18900,https://identifiers.org/hgnc:18900
 KRTAP4-3,18908,https://identifiers.org/hgnc:18908
 KRTAP4-4,16928,https://identifiers.org/hgnc:16928
+KRTAP4-5,18899,https://identifiers.org/hgnc:18899
 KRTAP4-6,18909,https://identifiers.org/hgnc:18909
 KRTAP4-7,18898,https://identifiers.org/hgnc:18898
 KRTAP4-8,17230,https://identifiers.org/hgnc:17230
@@ -8639,6 +8721,7 @@ KRTAP9-2,16926,https://identifiers.org/hgnc:16926
 KRTAP9-3,16927,https://identifiers.org/hgnc:16927
 KRTAP9-4,18902,https://identifiers.org/hgnc:18902
 KRTAP9-7,18915,https://identifiers.org/hgnc:18915
+KRTAP9-8,17231,https://identifiers.org/hgnc:17231
 KRTCAP2,28942,https://identifiers.org/hgnc:28942
 KRTCAP3,28943,https://identifiers.org/hgnc:28943
 KRTDAP,16313,https://identifiers.org/hgnc:16313
@@ -8892,6 +8975,7 @@ LINC00237,38166,https://identifiers.org/hgnc:38166
 LINC00243,30956,https://identifiers.org/hgnc:30956
 LINC00261,16189,https://identifiers.org/hgnc:16189
 LINC00299,27940,https://identifiers.org/hgnc:27940
+LINC00313,16416,https://identifiers.org/hgnc:16416
 LINC00322,33698,https://identifiers.org/hgnc:33698
 LINC00324,26628,https://identifiers.org/hgnc:26628
 LINC00343,42500,https://identifiers.org/hgnc:42500
@@ -8910,6 +8994,8 @@ LINC00431,42766,https://identifiers.org/hgnc:42766
 LINC00448,42785,https://identifiers.org/hgnc:42785
 LINC00458,42807,https://identifiers.org/hgnc:42807
 LINC00486,42946,https://identifiers.org/hgnc:42946
+LINC00487,42947,https://identifiers.org/hgnc:42947
+LINC00488,32675,https://identifiers.org/hgnc:32675
 LINC00489,43426,https://identifiers.org/hgnc:43426
 LINC00494,27657,https://identifiers.org/hgnc:27657
 LINC00504,43555,https://identifiers.org/hgnc:43555
@@ -8937,6 +9023,7 @@ LINC00677,20121,https://identifiers.org/hgnc:20121
 LINC00682,44466,https://identifiers.org/hgnc:44466
 LINC00689,27217,https://identifiers.org/hgnc:27217
 LINC00691,44514,https://identifiers.org/hgnc:44514
+LINC00692,27708,https://identifiers.org/hgnc:27708
 LINC00698,27720,https://identifiers.org/hgnc:27720
 LINC00824,50281,https://identifiers.org/hgnc:50281
 LINC00836,44915,https://identifiers.org/hgnc:44915
@@ -8953,8 +9040,10 @@ LINC00917,48607,https://identifiers.org/hgnc:48607
 LINC00921,26830,https://identifiers.org/hgnc:26830
 LINC00923,28088,https://identifiers.org/hgnc:28088
 LINC00927,27522,https://identifiers.org/hgnc:27522
+LINC00937,48629,https://identifiers.org/hgnc:48629
 LINC00958,48671,https://identifiers.org/hgnc:48671
 LINC00963,48716,https://identifiers.org/hgnc:48716
+LINC00964,27226,https://identifiers.org/hgnc:27226
 LINC00973,48868,https://identifiers.org/hgnc:48868
 LINC00992,48943,https://identifiers.org/hgnc:48943
 LINC00996,27800,https://identifiers.org/hgnc:27800
@@ -8986,6 +9075,7 @@ LINC01210,49642,https://identifiers.org/hgnc:49642
 LINC01214,49650,https://identifiers.org/hgnc:49650
 LINC01228,49681,https://identifiers.org/hgnc:49681
 LINC01234,49757,https://identifiers.org/hgnc:49757
+LINC01257,26972,https://identifiers.org/hgnc:26972
 LINC01258,49898,https://identifiers.org/hgnc:49898
 LINC01267,50320,https://identifiers.org/hgnc:50320
 LINC01269,50325,https://identifiers.org/hgnc:50325
@@ -9032,15 +9122,19 @@ LINC01535,51282,https://identifiers.org/hgnc:51282
 LINC01551,19828,https://identifiers.org/hgnc:19828
 LINC01553,23524,https://identifiers.org/hgnc:23524
 LINC01556,21195,https://identifiers.org/hgnc:21195
+LINC01559,26598,https://identifiers.org/hgnc:26598
 LINC01561,31365,https://identifiers.org/hgnc:31365
 LINC01564,51361,https://identifiers.org/hgnc:51361
+LINC01565,17099,https://identifiers.org/hgnc:17099
 LINC01567,51367,https://identifiers.org/hgnc:51367
 LINC01585,51432,https://identifiers.org/hgnc:51432
 LINC01586,51434,https://identifiers.org/hgnc:51434
 LINC01588,27503,https://identifiers.org/hgnc:27503
+LINC01600,21600,https://identifiers.org/hgnc:21600
 LINC01606,51656,https://identifiers.org/hgnc:51656
 LINC01607,51660,https://identifiers.org/hgnc:51660
 LINC01619,27409,https://identifiers.org/hgnc:27409
+LINC01620,16195,https://identifiers.org/hgnc:16195
 LINC01623,52050,https://identifiers.org/hgnc:52050
 LINC01625,52052,https://identifiers.org/hgnc:52052
 LINC01627,52258,https://identifiers.org/hgnc:52258
@@ -9110,6 +9204,7 @@ LINC02212,53079,https://identifiers.org/hgnc:53079
 LINC02579,27942,https://identifiers.org/hgnc:27942
 LINC02580,53751,https://identifiers.org/hgnc:53751
 LINC02603,37186,https://identifiers.org/hgnc:37186
+LINC02610,27177,https://identifiers.org/hgnc:27177
 LINC02693,27904,https://identifiers.org/hgnc:27904
 LINC02694,33796,https://identifiers.org/hgnc:33796
 LINC02747,54266,https://identifiers.org/hgnc:54266
@@ -9117,15 +9212,18 @@ LINC02860,22364,https://identifiers.org/hgnc:22364
 LINC02862,54419,https://identifiers.org/hgnc:54419
 LINC02868,32040,https://identifiers.org/hgnc:32040
 LINC02869,32045,https://identifiers.org/hgnc:32045
+LINC02870,27275,https://identifiers.org/hgnc:27275
 LINC02873,26805,https://identifiers.org/hgnc:26805
 LINC02874,27473,https://identifiers.org/hgnc:27473
 LINC02875,32699,https://identifiers.org/hgnc:32699
+LINC02880,54660,https://identifiers.org/hgnc:54660
 LINC02881,51236,https://identifiers.org/hgnc:51236
 LINC02898,42966,https://identifiers.org/hgnc:42966
 LINC02899,26630,https://identifiers.org/hgnc:26630
 LINC02901,21179,https://identifiers.org/hgnc:21179
 LINC02902,34432,https://identifiers.org/hgnc:34432
 LINC02914,26375,https://identifiers.org/hgnc:26375
+LINC02915,33797,https://identifiers.org/hgnc:33797
 LINC02985,56073,https://identifiers.org/hgnc:56073
 LINC03040,28692,https://identifiers.org/hgnc:28692
 LINC03041,19054,https://identifiers.org/hgnc:19054
@@ -9308,7 +9406,9 @@ LRRC47,29207,https://identifiers.org/hgnc:29207
 LRRC49,25965,https://identifiers.org/hgnc:25965
 LRRC4B,25042,https://identifiers.org/hgnc:25042
 LRRC4C,29317,https://identifiers.org/hgnc:29317
+LRRC51,55526,https://identifiers.org/hgnc:55526
 LRRC52,32156,https://identifiers.org/hgnc:32156
+LRRC53,25255,https://identifiers.org/hgnc:25255
 LRRC55,32324,https://identifiers.org/hgnc:32324
 LRRC56,25430,https://identifiers.org/hgnc:25430
 LRRC57,26719,https://identifiers.org/hgnc:26719
@@ -9332,6 +9432,7 @@ LRRC8B,30692,https://identifiers.org/hgnc:30692
 LRRC8C,25075,https://identifiers.org/hgnc:25075
 LRRC8D,16992,https://identifiers.org/hgnc:16992
 LRRC8E,26272,https://identifiers.org/hgnc:26272
+LRRC9,19848,https://identifiers.org/hgnc:19848
 LRRCC1,29373,https://identifiers.org/hgnc:29373
 LRRD1,34300,https://identifiers.org/hgnc:34300
 LRRFIP1,6702,https://identifiers.org/hgnc:6702
@@ -9641,6 +9742,7 @@ MAPKAP1,18752,https://identifiers.org/hgnc:18752
 MAPKAPK2,6887,https://identifiers.org/hgnc:6887
 MAPKAPK3,6888,https://identifiers.org/hgnc:6888
 MAPKAPK5,6889,https://identifiers.org/hgnc:6889
+MAPKAPK5-AS1,24091,https://identifiers.org/hgnc:24091
 MAPKAPK5P1,45246,https://identifiers.org/hgnc:45246
 MAPKBP1,29536,https://identifiers.org/hgnc:29536
 MAPRE1,6890,https://identifiers.org/hgnc:6890
@@ -9688,6 +9790,7 @@ MATCAP1,34408,https://identifiers.org/hgnc:34408
 MATCAP2,22206,https://identifiers.org/hgnc:22206
 MATK,6906,https://identifiers.org/hgnc:6906
 MATN1,6907,https://identifiers.org/hgnc:6907
+MATN1-AS1,40364,https://identifiers.org/hgnc:40364
 MATN2,6908,https://identifiers.org/hgnc:6908
 MATN3,6909,https://identifiers.org/hgnc:6909
 MATN4,6910,https://identifiers.org/hgnc:6910
@@ -9848,6 +9951,7 @@ MEIOSIN,44318,https://identifiers.org/hgnc:44318
 MEIS1,7000,https://identifiers.org/hgnc:7000
 MEIS2,7001,https://identifiers.org/hgnc:7001
 MEIS3,29537,https://identifiers.org/hgnc:29537
+MEIS3P2,17638,https://identifiers.org/hgnc:17638
 MELK,16870,https://identifiers.org/hgnc:16870
 MELTF,7037,https://identifiers.org/hgnc:7037
 MEMO1,14014,https://identifiers.org/hgnc:14014
@@ -10035,12 +10139,18 @@ MIR1224,33923,https://identifiers.org/hgnc:33923
 MIR1225,33931,https://identifiers.org/hgnc:33931
 MIR1226,33922,https://identifiers.org/hgnc:33922
 MIR1229,33924,https://identifiers.org/hgnc:33924
+MIR1234,33926,https://identifiers.org/hgnc:33926
 MIR1236,33925,https://identifiers.org/hgnc:33925
+MIR1237,33927,https://identifiers.org/hgnc:33927
 MIR124-1,31502,https://identifiers.org/hgnc:31502
 MIR1244-1,35310,https://identifiers.org/hgnc:35310
 MIR1246,35312,https://identifiers.org/hgnc:35312
+MIR1247,35313,https://identifiers.org/hgnc:35313
 MIR1248,35314,https://identifiers.org/hgnc:35314
+MIR1249,35315,https://identifiers.org/hgnc:35315
+MIR1250,35316,https://identifiers.org/hgnc:35316
 MIR1251,35317,https://identifiers.org/hgnc:35317
+MIR1252,35365,https://identifiers.org/hgnc:35365
 MIR1255A,35320,https://identifiers.org/hgnc:35320
 MIR1255B2,35367,https://identifiers.org/hgnc:35367
 MIR125A,31505,https://identifiers.org/hgnc:31505
@@ -10053,6 +10163,9 @@ MIR1262,35328,https://identifiers.org/hgnc:35328
 MIR1263,35329,https://identifiers.org/hgnc:35329
 MIR1264,35246,https://identifiers.org/hgnc:35246
 MIR1266,35334,https://identifiers.org/hgnc:35334
+MIR1267,35335,https://identifiers.org/hgnc:35335
+MIR1268A,35336,https://identifiers.org/hgnc:35336
+MIR1268B,41581,https://identifiers.org/hgnc:41581
 MIR1269A,35337,https://identifiers.org/hgnc:35337
 MIR1269B,41787,https://identifiers.org/hgnc:41787
 MIR127,31509,https://identifiers.org/hgnc:31509
@@ -10062,7 +10175,10 @@ MIR1273H,49973,https://identifiers.org/hgnc:49973
 MIR1275,35346,https://identifiers.org/hgnc:35346
 MIR1276,35347,https://identifiers.org/hgnc:35347
 MIR1277,35350,https://identifiers.org/hgnc:35350
+MIR1278,35356,https://identifiers.org/hgnc:35356
 MIR128-1,31510,https://identifiers.org/hgnc:31510
+MIR128-2,31511,https://identifiers.org/hgnc:31511
+MIR1282,35360,https://identifiers.org/hgnc:35360
 MIR1283-1,35255,https://identifiers.org/hgnc:35255
 MIR1284,35362,https://identifiers.org/hgnc:35362
 MIR1285-1,35277,https://identifiers.org/hgnc:35277
@@ -10076,6 +10192,7 @@ MIR1291,35284,https://identifiers.org/hgnc:35284
 MIR1292,35364,https://identifiers.org/hgnc:35364
 MIR1293,35286,https://identifiers.org/hgnc:35286
 MIR1294,35287,https://identifiers.org/hgnc:35287
+MIR1295A,35288,https://identifiers.org/hgnc:35288
 MIR1296,35249,https://identifiers.org/hgnc:35249
 MIR1297,35289,https://identifiers.org/hgnc:35289
 MIR1298,35258,https://identifiers.org/hgnc:35258
@@ -10125,6 +10242,7 @@ MIR151B,41588,https://identifiers.org/hgnc:41588
 MIR152,31538,https://identifiers.org/hgnc:31538
 MIR153-1,31539,https://identifiers.org/hgnc:31539
 MIR153-2,31540,https://identifiers.org/hgnc:31540
+MIR1537,35381,https://identifiers.org/hgnc:35381
 MIR154,31541,https://identifiers.org/hgnc:31541
 MIR155,31542,https://identifiers.org/hgnc:31542
 MIR15A,31543,https://identifiers.org/hgnc:31543
@@ -10133,6 +10251,7 @@ MIR16-1,31545,https://identifiers.org/hgnc:31545
 MIR16-2,31546,https://identifiers.org/hgnc:31546
 MIR17,31547,https://identifiers.org/hgnc:31547
 MIR17HG,23564,https://identifiers.org/hgnc:23564
+MIR181A1,31590,https://identifiers.org/hgnc:31590
 MIR181A1HG,48659,https://identifiers.org/hgnc:48659
 MIR181A2,31549,https://identifiers.org/hgnc:31549
 MIR181B1,31550,https://identifiers.org/hgnc:31550
@@ -10150,6 +10269,7 @@ MIR187,31558,https://identifiers.org/hgnc:31558
 MIR188,31559,https://identifiers.org/hgnc:31559
 MIR18A,31548,https://identifiers.org/hgnc:31548
 MIR18B,32025,https://identifiers.org/hgnc:32025
+MIR1908,35392,https://identifiers.org/hgnc:35392
 MIR190A,31560,https://identifiers.org/hgnc:31560
 MIR190B,33656,https://identifiers.org/hgnc:33656
 MIR191,31561,https://identifiers.org/hgnc:31561
@@ -10168,6 +10288,8 @@ MIR196A1,31567,https://identifiers.org/hgnc:31567
 MIR196A2,31568,https://identifiers.org/hgnc:31568
 MIR196B,31790,https://identifiers.org/hgnc:31790
 MIR197,31569,https://identifiers.org/hgnc:31569
+MIR1972-1,37060,https://identifiers.org/hgnc:37060
+MIR1973,37061,https://identifiers.org/hgnc:37061
 MIR199A1,31571,https://identifiers.org/hgnc:31571
 MIR199B,31573,https://identifiers.org/hgnc:31573
 MIR19A,31574,https://identifiers.org/hgnc:31574
@@ -10259,6 +10381,7 @@ MIR30C2,31627,https://identifiers.org/hgnc:31627
 MIR30D,31628,https://identifiers.org/hgnc:31628
 MIR30E,31629,https://identifiers.org/hgnc:31629
 MIR31,31630,https://identifiers.org/hgnc:31630
+MIR3115,38371,https://identifiers.org/hgnc:38371
 MIR3117,38385,https://identifiers.org/hgnc:38385
 MIR3120,38295,https://identifiers.org/hgnc:38295
 MIR3124,38262,https://identifiers.org/hgnc:38262
@@ -10271,19 +10394,26 @@ MIR3144,38331,https://identifiers.org/hgnc:38331
 MIR3145,38327,https://identifiers.org/hgnc:38327
 MIR3149,38251,https://identifiers.org/hgnc:38251
 MIR3150A,38362,https://identifiers.org/hgnc:38362
+MIR3152,38379,https://identifiers.org/hgnc:38379
 MIR3157,38172,https://identifiers.org/hgnc:38172
 MIR3158-1,38196,https://identifiers.org/hgnc:38196
+MIR3159,38181,https://identifiers.org/hgnc:38181
 MIR3164,38288,https://identifiers.org/hgnc:38288
 MIR3168,38249,https://identifiers.org/hgnc:38249
+MIR3173,38174,https://identifiers.org/hgnc:38174
 MIR3174,38264,https://identifiers.org/hgnc:38264
 MIR3176,38345,https://identifiers.org/hgnc:38345
 MIR3177,38364,https://identifiers.org/hgnc:38364
+MIR3180-1,38382,https://identifiers.org/hgnc:38382
+MIR3181,38378,https://identifiers.org/hgnc:38378
+MIR3182,38317,https://identifiers.org/hgnc:38317
 MIR3184,38182,https://identifiers.org/hgnc:38182
 MIR3187,38319,https://identifiers.org/hgnc:38319
 MIR3188,38226,https://identifiers.org/hgnc:38226
 MIR3190,38190,https://identifiers.org/hgnc:38190
 MIR3193,38204,https://identifiers.org/hgnc:38204
 MIR3194,38346,https://identifiers.org/hgnc:38346
+MIR3197,38366,https://identifiers.org/hgnc:38366
 MIR31HG,37187,https://identifiers.org/hgnc:37187
 MIR32,31631,https://identifiers.org/hgnc:31631
 MIR3200,38227,https://identifiers.org/hgnc:38227
@@ -10295,6 +10425,7 @@ MIR320E,38230,https://identifiers.org/hgnc:38230
 MIR323A,31766,https://identifiers.org/hgnc:31766
 MIR323B,38349,https://identifiers.org/hgnc:38349
 MIR324,31767,https://identifiers.org/hgnc:31767
+MIR325,31768,https://identifiers.org/hgnc:31768
 MIR326,31769,https://identifiers.org/hgnc:31769
 MIR328,31770,https://identifiers.org/hgnc:31770
 MIR329-1,32050,https://identifiers.org/hgnc:32050
@@ -10328,18 +10459,23 @@ MIR3617,38977,https://identifiers.org/hgnc:38977
 MIR3619,38998,https://identifiers.org/hgnc:38998
 MIR362,32022,https://identifiers.org/hgnc:32022
 MIR3620,38917,https://identifiers.org/hgnc:38917
+MIR3622A,38934,https://identifiers.org/hgnc:38934
 MIR363,32023,https://identifiers.org/hgnc:32023
+MIR3651,38897,https://identifiers.org/hgnc:38897
 MIR3652,38894,https://identifiers.org/hgnc:38894
 MIR3657,38906,https://identifiers.org/hgnc:38906
 MIR3659,38882,https://identifiers.org/hgnc:38882
 MIR365A,33692,https://identifiers.org/hgnc:33692
 MIR365B,33693,https://identifiers.org/hgnc:33693
 MIR3662,38983,https://identifiers.org/hgnc:38983
+MIR3664,38899,https://identifiers.org/hgnc:38899
 MIR3667,38990,https://identifiers.org/hgnc:38990
 MIR3667HG,28010,https://identifiers.org/hgnc:28010
 MIR3668,38982,https://identifiers.org/hgnc:38982
 MIR367,31781,https://identifiers.org/hgnc:31781
+MIR3677,38932,https://identifiers.org/hgnc:38932
 MIR3679,38979,https://identifiers.org/hgnc:38979
+MIR3681,38994,https://identifiers.org/hgnc:38994
 MIR3681HG,52001,https://identifiers.org/hgnc:52001
 MIR3688-1,38986,https://identifiers.org/hgnc:38986
 MIR3689A,38904,https://identifiers.org/hgnc:38904
@@ -10347,9 +10483,11 @@ MIR3689B,38924,https://identifiers.org/hgnc:38924
 MIR3689E,41887,https://identifiers.org/hgnc:41887
 MIR3689F,41702,https://identifiers.org/hgnc:41702
 MIR369,31783,https://identifiers.org/hgnc:31783
+MIR3690,38967,https://identifiers.org/hgnc:38967
 MIR3691,38909,https://identifiers.org/hgnc:38909
 MIR3692,38885,https://identifiers.org/hgnc:38885
 MIR370,31784,https://identifiers.org/hgnc:31784
+MIR371A,31785,https://identifiers.org/hgnc:31785
 MIR372,31786,https://identifiers.org/hgnc:31786
 MIR373,31787,https://identifiers.org/hgnc:31787
 MIR374A,31788,https://identifiers.org/hgnc:31788
@@ -10367,6 +10505,7 @@ MIR378C,38374,https://identifiers.org/hgnc:38374
 MIR378D2,41797,https://identifiers.org/hgnc:41797
 MIR378F,41686,https://identifiers.org/hgnc:41686
 MIR378G,41785,https://identifiers.org/hgnc:41785
+MIR378H,41744,https://identifiers.org/hgnc:41744
 MIR378I,41620,https://identifiers.org/hgnc:41620
 MIR379,31872,https://identifiers.org/hgnc:31872
 MIR380,31873,https://identifiers.org/hgnc:31873
@@ -10375,28 +10514,36 @@ MIR382,31875,https://identifiers.org/hgnc:31875
 MIR383,31876,https://identifiers.org/hgnc:31876
 MIR3909,38987,https://identifiers.org/hgnc:38987
 MIR3913-1,38884,https://identifiers.org/hgnc:38884
+MIR3917,38911,https://identifiers.org/hgnc:38911
 MIR3918,38919,https://identifiers.org/hgnc:38919
 MIR3922,38895,https://identifiers.org/hgnc:38895
 MIR3923,38978,https://identifiers.org/hgnc:38978
 MIR3924,38984,https://identifiers.org/hgnc:38984
 MIR3925,38996,https://identifiers.org/hgnc:38996
 MIR3928,38933,https://identifiers.org/hgnc:38933
+MIR3929,38945,https://identifiers.org/hgnc:38945
 MIR3934,38965,https://identifiers.org/hgnc:38965
 MIR3938,38972,https://identifiers.org/hgnc:38972
 MIR3940,38893,https://identifiers.org/hgnc:38893
+MIR3943,38888,https://identifiers.org/hgnc:38888
 MIR409,32055,https://identifiers.org/hgnc:32055
 MIR410,32065,https://identifiers.org/hgnc:32065
 MIR411,32792,https://identifiers.org/hgnc:32792
+MIR412,32064,https://identifiers.org/hgnc:32064
 MIR421,32793,https://identifiers.org/hgnc:32793
 MIR422A,31879,https://identifiers.org/hgnc:31879
 MIR423,31880,https://identifiers.org/hgnc:31880
 MIR424,31881,https://identifiers.org/hgnc:31881
 MIR425,31882,https://identifiers.org/hgnc:31882
+MIR4254,38193,https://identifiers.org/hgnc:38193
+MIR4284,38322,https://identifiers.org/hgnc:38322
 MIR4286,38186,https://identifiers.org/hgnc:38186
+MIR4287,38208,https://identifiers.org/hgnc:38208
 MIR429,13784,https://identifiers.org/hgnc:13784
 MIR4291,38267,https://identifiers.org/hgnc:38267
 MIR4296,38178,https://identifiers.org/hgnc:38178
 MIR4300HG,52003,https://identifiers.org/hgnc:52003
+MIR4301,38323,https://identifiers.org/hgnc:38323
 MIR4306,38350,https://identifiers.org/hgnc:38350
 MIR4309,38336,https://identifiers.org/hgnc:38336
 MIR431,32027,https://identifiers.org/hgnc:32027
@@ -10406,6 +10553,7 @@ MIR4324,38392,https://identifiers.org/hgnc:38392
 MIR4326,38314,https://identifiers.org/hgnc:38314
 MIR433,32026,https://identifiers.org/hgnc:32026
 MIR4418,41789,https://identifiers.org/hgnc:41789
+MIR4421,41879,https://identifiers.org/hgnc:41879
 MIR4422,41654,https://identifiers.org/hgnc:41654
 MIR4423,41784,https://identifiers.org/hgnc:41784
 MIR4425,41891,https://identifiers.org/hgnc:41891
@@ -10414,22 +10562,30 @@ MIR4429,41579,https://identifiers.org/hgnc:41579
 MIR4435-1,41713,https://identifiers.org/hgnc:41713
 MIR4437,41715,https://identifiers.org/hgnc:41715
 MIR4438,41555,https://identifiers.org/hgnc:41555
+MIR4440,41740,https://identifiers.org/hgnc:41740
+MIR4443,41830,https://identifiers.org/hgnc:41830
 MIR4446,41700,https://identifiers.org/hgnc:41700
 MIR4448,41604,https://identifiers.org/hgnc:41604
 MIR4450,41725,https://identifiers.org/hgnc:41725
 MIR4454,41553,https://identifiers.org/hgnc:41553
+MIR4455,41536,https://identifiers.org/hgnc:41536
 MIR4462,41549,https://identifiers.org/hgnc:41549
+MIR4467,41896,https://identifiers.org/hgnc:41896
 MIR4473,41540,https://identifiers.org/hgnc:41540
 MIR4474,41821,https://identifiers.org/hgnc:41821
 MIR4477B,41898,https://identifiers.org/hgnc:41898
 MIR4478,41759,https://identifiers.org/hgnc:41759
 MIR448,26069,https://identifiers.org/hgnc:26069
 MIR4482,41792,https://identifiers.org/hgnc:41792
+MIR4485,41628,https://identifiers.org/hgnc:41628
+MIR4488,41599,https://identifiers.org/hgnc:41599
 MIR4491,41808,https://identifiers.org/hgnc:41808
 MIR4496,41569,https://identifiers.org/hgnc:41569
+MIR4498,41838,https://identifiers.org/hgnc:41838
 MIR449A,27645,https://identifiers.org/hgnc:27645
 MIR449B,32794,https://identifiers.org/hgnc:32794
 MIR449C,37302,https://identifiers.org/hgnc:37302
+MIR4501,41650,https://identifiers.org/hgnc:41650
 MIR450A1,28008,https://identifiers.org/hgnc:28008
 MIR450A2,32137,https://identifiers.org/hgnc:32137
 MIR450B,33642,https://identifiers.org/hgnc:33642
@@ -10446,38 +10602,49 @@ MIR4528,41547,https://identifiers.org/hgnc:41547
 MIR454,33137,https://identifiers.org/hgnc:33137
 MIR455,32344,https://identifiers.org/hgnc:32344
 MIR4639,41645,https://identifiers.org/hgnc:41645
+MIR4640,41561,https://identifiers.org/hgnc:41561
 MIR4645,41689,https://identifiers.org/hgnc:41689
 MIR4648,41560,https://identifiers.org/hgnc:41560
 MIR4659A,41857,https://identifiers.org/hgnc:41857
 MIR4660,41861,https://identifiers.org/hgnc:41861
+MIR4661,41582,https://identifiers.org/hgnc:41582
 MIR4662A,41826,https://identifiers.org/hgnc:41826
 MIR4664,41777,https://identifiers.org/hgnc:41777
 MIR4669,41558,https://identifiers.org/hgnc:41558
 MIR4672,41662,https://identifiers.org/hgnc:41662
+MIR4676,41691,https://identifiers.org/hgnc:41691
 MIR4677,41844,https://identifiers.org/hgnc:41844
 MIR4685,41802,https://identifiers.org/hgnc:41802
+MIR4690,41707,https://identifiers.org/hgnc:41707
 MIR4701,41627,https://identifiers.org/hgnc:41627
 MIR4705,41567,https://identifiers.org/hgnc:41567
+MIR4707,41531,https://identifiers.org/hgnc:41531
 MIR4709,41690,https://identifiers.org/hgnc:41690
 MIR4713,41899,https://identifiers.org/hgnc:41899
 MIR4714,41763,https://identifiers.org/hgnc:41763
 MIR4725,41608,https://identifiers.org/hgnc:41608
+MIR4726,41722,https://identifiers.org/hgnc:41722
 MIR4728,41632,https://identifiers.org/hgnc:41632
 MIR4729,41585,https://identifiers.org/hgnc:41585
 MIR4731,41597,https://identifiers.org/hgnc:41597
 MIR4733,41638,https://identifiers.org/hgnc:41638
 MIR4738,41679,https://identifiers.org/hgnc:41679
 MIR4745,41868,https://identifiers.org/hgnc:41868
+MIR4746,41904,https://identifiers.org/hgnc:41904
 MIR4755,41815,https://identifiers.org/hgnc:41815
 MIR4756,41529,https://identifiers.org/hgnc:41529
+MIR4758,41836,https://identifiers.org/hgnc:41836
+MIR4761,41591,https://identifiers.org/hgnc:41591
 MIR4766,41680,https://identifiers.org/hgnc:41680
 MIR4768,41592,https://identifiers.org/hgnc:41592
 MIR4779,41747,https://identifiers.org/hgnc:41747
 MIR4781,41769,https://identifiers.org/hgnc:41769
 MIR4782,41635,https://identifiers.org/hgnc:41635
 MIR4786,41751,https://identifiers.org/hgnc:41751
+MIR4789,41719,https://identifiers.org/hgnc:41719
 MIR4796,41779,https://identifiers.org/hgnc:41779
 MIR4803,41568,https://identifiers.org/hgnc:41568
+MIR4804,41720,https://identifiers.org/hgnc:41720
 MIR483,32340,https://identifiers.org/hgnc:32340
 MIR484,32341,https://identifiers.org/hgnc:32341
 MIR485,32067,https://identifiers.org/hgnc:32067
@@ -10493,6 +10660,7 @@ MIR494,32084,https://identifiers.org/hgnc:32084
 MIR495,32085,https://identifiers.org/hgnc:32085
 MIR496,32086,https://identifiers.org/hgnc:32086
 MIR497,32088,https://identifiers.org/hgnc:32088
+MIR497HG,39523,https://identifiers.org/hgnc:39523
 MIR498,32092,https://identifiers.org/hgnc:32092
 MIR4999,43494,https://identifiers.org/hgnc:43494
 MIR499A,32133,https://identifiers.org/hgnc:32133
@@ -10516,6 +10684,7 @@ MIR5089,43536,https://identifiers.org/hgnc:43536
 MIR509-1,32146,https://identifiers.org/hgnc:32146
 MIR5093,43474,https://identifiers.org/hgnc:43474
 MIR5094,43519,https://identifiers.org/hgnc:43519
+MIR510,32147,https://identifiers.org/hgnc:32147
 MIR5100,43540,https://identifiers.org/hgnc:43540
 MIR511,32077,https://identifiers.org/hgnc:32077
 MIR512-1,32090,https://identifiers.org/hgnc:32090
@@ -10529,9 +10698,13 @@ MIR516A1,32130,https://identifiers.org/hgnc:32130
 MIR516B2,32117,https://identifiers.org/hgnc:32117
 MIR517A,32111,https://identifiers.org/hgnc:32111
 MIR517B,32115,https://identifiers.org/hgnc:32115
+MIR517C,32124,https://identifiers.org/hgnc:32124
 MIR5189,43515,https://identifiers.org/hgnc:43515
 MIR518A1,32120,https://identifiers.org/hgnc:32120
+MIR518B,32106,https://identifiers.org/hgnc:32106
 MIR518C,32109,https://identifiers.org/hgnc:32109
+MIR518D,32121,https://identifiers.org/hgnc:32121
+MIR518E,32119,https://identifiers.org/hgnc:32119
 MIR518F,32104,https://identifiers.org/hgnc:32104
 MIR5191,43497,https://identifiers.org/hgnc:43497
 MIR5196,43542,https://identifiers.org/hgnc:43542
@@ -10551,6 +10724,7 @@ MIR520G,32116,https://identifiers.org/hgnc:32116
 MIR520H,32125,https://identifiers.org/hgnc:32125
 MIR521-2,32113,https://identifiers.org/hgnc:32113
 MIR522,32127,https://identifiers.org/hgnc:32127
+MIR523,32103,https://identifiers.org/hgnc:32103
 MIR524,32110,https://identifiers.org/hgnc:32110
 MIR525,32102,https://identifiers.org/hgnc:32102
 MIR526A1,32107,https://identifiers.org/hgnc:32107
@@ -10566,20 +10740,27 @@ MIR545,32531,https://identifiers.org/hgnc:32531
 MIR548A3,32798,https://identifiers.org/hgnc:32798
 MIR548AA1,38944,https://identifiers.org/hgnc:38944
 MIR548AB,41825,https://identifiers.org/hgnc:41825
+MIR548AD,41683,https://identifiers.org/hgnc:41683
+MIR548AG1,41625,https://identifiers.org/hgnc:41625
 MIR548AH,41605,https://identifiers.org/hgnc:41605
 MIR548AJ1,41884,https://identifiers.org/hgnc:41884
 MIR548AK,41893,https://identifiers.org/hgnc:41893
 MIR548AM,41637,https://identifiers.org/hgnc:41637
 MIR548AO,43539,https://identifiers.org/hgnc:43539
+MIR548AP,43465,https://identifiers.org/hgnc:43465
+MIR548AQ,43488,https://identifiers.org/hgnc:43488
 MIR548AT,43517,https://identifiers.org/hgnc:43517
+MIR548AU,43483,https://identifiers.org/hgnc:43483
 MIR548AY,49943,https://identifiers.org/hgnc:49943
 MIR548AZ,49981,https://identifiers.org/hgnc:49981
 MIR548B,32799,https://identifiers.org/hgnc:32799
+MIR548BA,50260,https://identifiers.org/hgnc:50260
 MIR548BC,54164,https://identifiers.org/hgnc:54164
 MIR548C,32800,https://identifiers.org/hgnc:32800
 MIR548D1,32801,https://identifiers.org/hgnc:32801
 MIR548E,35275,https://identifiers.org/hgnc:35275
 MIR548F1,35305,https://identifiers.org/hgnc:35305
+MIR548H1,35342,https://identifiers.org/hgnc:35342
 MIR548H4,35345,https://identifiers.org/hgnc:35345
 MIR548I1,35352,https://identifiers.org/hgnc:35352
 MIR548J,35276,https://identifiers.org/hgnc:35276
@@ -10588,6 +10769,7 @@ MIR548L,35292,https://identifiers.org/hgnc:35292
 MIR548N,35330,https://identifiers.org/hgnc:35330
 MIR548O2,41882,https://identifiers.org/hgnc:41882
 MIR548P,35351,https://identifiers.org/hgnc:35351
+MIR548Q,37312,https://identifiers.org/hgnc:37312
 MIR548T,38298,https://identifiers.org/hgnc:38298
 MIR548V,38302,https://identifiers.org/hgnc:38302
 MIR548W,38255,https://identifiers.org/hgnc:38255
@@ -10601,17 +10783,25 @@ MIR552,32808,https://identifiers.org/hgnc:32808
 MIR556,32812,https://identifiers.org/hgnc:32812
 MIR557,32813,https://identifiers.org/hgnc:32813
 MIR5579,43485,https://identifiers.org/hgnc:43485
+MIR558,32814,https://identifiers.org/hgnc:32814
 MIR5581,43527,https://identifiers.org/hgnc:43527
+MIR5582,43461,https://identifiers.org/hgnc:43461
 MIR5585,43452,https://identifiers.org/hgnc:43452
+MIR5586,43493,https://identifiers.org/hgnc:43493
+MIR5587,43508,https://identifiers.org/hgnc:43508
+MIR559,32815,https://identifiers.org/hgnc:32815
 MIR561,32817,https://identifiers.org/hgnc:32817
 MIR567,32823,https://identifiers.org/hgnc:32823
+MIR5680,43492,https://identifiers.org/hgnc:43492
 MIR5682,43477,https://identifiers.org/hgnc:43477
 MIR5683,43453,https://identifiers.org/hgnc:43453
+MIR5688,43463,https://identifiers.org/hgnc:43463
 MIR5690,43490,https://identifiers.org/hgnc:43490
 MIR5699,43456,https://identifiers.org/hgnc:43456
 MIR570,32826,https://identifiers.org/hgnc:32826
 MIR5701-1,43522,https://identifiers.org/hgnc:43522
 MIR571,32827,https://identifiers.org/hgnc:32827
+MIR572,32828,https://identifiers.org/hgnc:32828
 MIR573,32829,https://identifiers.org/hgnc:32829
 MIR574,32830,https://identifiers.org/hgnc:32830
 MIR576,32832,https://identifiers.org/hgnc:32832
@@ -10631,6 +10821,7 @@ MIR603,32859,https://identifiers.org/hgnc:32859
 MIR605,32861,https://identifiers.org/hgnc:32861
 MIR606,32862,https://identifiers.org/hgnc:32862
 MIR6068,50261,https://identifiers.org/hgnc:50261
+MIR608,32864,https://identifiers.org/hgnc:32864
 MIR612,32868,https://identifiers.org/hgnc:32868
 MIR6127,50163,https://identifiers.org/hgnc:50163
 MIR615,32871,https://identifiers.org/hgnc:32871
@@ -10641,12 +10832,14 @@ MIR619,32875,https://identifiers.org/hgnc:32875
 MIR622,32878,https://identifiers.org/hgnc:32878
 MIR624,32880,https://identifiers.org/hgnc:32880
 MIR625,32881,https://identifiers.org/hgnc:32881
+MIR627,32883,https://identifiers.org/hgnc:32883
 MIR628,32884,https://identifiers.org/hgnc:32884
 MIR629,32885,https://identifiers.org/hgnc:32885
 MIR630,32886,https://identifiers.org/hgnc:32886
 MIR633,32889,https://identifiers.org/hgnc:32889
 MIR636,32892,https://identifiers.org/hgnc:32892
 MIR638,32894,https://identifiers.org/hgnc:32894
+MIR639,32895,https://identifiers.org/hgnc:32895
 MIR641,32897,https://identifiers.org/hgnc:32897
 MIR642A,32898,https://identifiers.org/hgnc:32898
 MIR642B,38902,https://identifiers.org/hgnc:38902
@@ -10668,6 +10861,7 @@ MIR655,32911,https://identifiers.org/hgnc:32911
 MIR656,32912,https://identifiers.org/hgnc:32912
 MIR657,32913,https://identifiers.org/hgnc:32913
 MIR658,32914,https://identifiers.org/hgnc:32914
+MIR659,32915,https://identifiers.org/hgnc:32915
 MIR660,32916,https://identifiers.org/hgnc:32916
 MIR661,32917,https://identifiers.org/hgnc:32917
 MIR663A,32919,https://identifiers.org/hgnc:32919
@@ -10678,25 +10872,40 @@ MIR668,33135,https://identifiers.org/hgnc:33135
 MIR670,37304,https://identifiers.org/hgnc:37304
 MIR671,33134,https://identifiers.org/hgnc:33134
 MIR6721,50049,https://identifiers.org/hgnc:50049
+MIR6724-1,50837,https://identifiers.org/hgnc:50837
+MIR6726,50009,https://identifiers.org/hgnc:50009
+MIR6727,50171,https://identifiers.org/hgnc:50171
 MIR6728,49961,https://identifiers.org/hgnc:49961
+MIR6729,50103,https://identifiers.org/hgnc:50103
 MIR6731,50036,https://identifiers.org/hgnc:50036
 MIR6735,50126,https://identifiers.org/hgnc:50126
+MIR6741,50004,https://identifiers.org/hgnc:50004
+MIR6744,50051,https://identifiers.org/hgnc:50051
 MIR6747,50027,https://identifiers.org/hgnc:50027
 MIR675,33351,https://identifiers.org/hgnc:33351
 MIR6751,49983,https://identifiers.org/hgnc:49983
 MIR6757,50160,https://identifiers.org/hgnc:50160
+MIR676,38880,https://identifiers.org/hgnc:38880
 MIR6761,49949,https://identifiers.org/hgnc:49949
 MIR6764,49994,https://identifiers.org/hgnc:49994
+MIR6765,50030,https://identifiers.org/hgnc:50030
 MIR6766,49941,https://identifiers.org/hgnc:49941
+MIR6769B,50016,https://identifiers.org/hgnc:50016
 MIR6770-1,50223,https://identifiers.org/hgnc:50223
 MIR6778,50183,https://identifiers.org/hgnc:50183
 MIR6781,50185,https://identifiers.org/hgnc:50185
 MIR6783,50159,https://identifiers.org/hgnc:50159
+MIR6787,50209,https://identifiers.org/hgnc:50209
 MIR6793,50251,https://identifiers.org/hgnc:50251
+MIR6795,50031,https://identifiers.org/hgnc:50031
 MIR6796,50186,https://identifiers.org/hgnc:50186
+MIR6797,50169,https://identifiers.org/hgnc:50169
+MIR6804,50253,https://identifiers.org/hgnc:50253
 MIR6809,49926,https://identifiers.org/hgnc:49926
 MIR6810,49987,https://identifiers.org/hgnc:49987
 MIR6811,49944,https://identifiers.org/hgnc:49944
+MIR6812,50116,https://identifiers.org/hgnc:50116
+MIR6816,50256,https://identifiers.org/hgnc:50256
 MIR6818,49940,https://identifiers.org/hgnc:49940
 MIR6820,50095,https://identifiers.org/hgnc:50095
 MIR6825,50208,https://identifiers.org/hgnc:50208
@@ -10705,15 +10914,25 @@ MIR6832,50140,https://identifiers.org/hgnc:50140
 MIR6833,50245,https://identifiers.org/hgnc:50245
 MIR6842,50254,https://identifiers.org/hgnc:50254
 MIR6847,50022,https://identifiers.org/hgnc:50022
+MIR6854,50084,https://identifiers.org/hgnc:50084
 MIR6855,50061,https://identifiers.org/hgnc:50061
+MIR6858,50250,https://identifiers.org/hgnc:50250
 MIR6859-1,50039,https://identifiers.org/hgnc:50039
+MIR6865,50182,https://identifiers.org/hgnc:50182
 MIR6866,49932,https://identifiers.org/hgnc:49932
+MIR6871,49964,https://identifiers.org/hgnc:49964
+MIR6877,50205,https://identifiers.org/hgnc:50205
 MIR6882,49928,https://identifiers.org/hgnc:49928
 MIR6885,50221,https://identifiers.org/hgnc:50221
+MIR6886,50121,https://identifiers.org/hgnc:50121
 MIR6889,50014,https://identifiers.org/hgnc:50014
+MIR6892,50053,https://identifiers.org/hgnc:50053
 MIR7-1,31638,https://identifiers.org/hgnc:31638
 MIR7-2,31639,https://identifiers.org/hgnc:31639
+MIR7-3HG,30049,https://identifiers.org/hgnc:30049
 MIR708,33654,https://identifiers.org/hgnc:33654
+MIR7109,50122,https://identifiers.org/hgnc:50122
+MIR7110,50024,https://identifiers.org/hgnc:50024
 MIR7151,50170,https://identifiers.org/hgnc:50170
 MIR744,33658,https://identifiers.org/hgnc:33658
 MIR758,33133,https://identifiers.org/hgnc:33133
@@ -10723,9 +10942,11 @@ MIR766,33139,https://identifiers.org/hgnc:33139
 MIR767,33136,https://identifiers.org/hgnc:33136
 MIR769,33138,https://identifiers.org/hgnc:33138
 MIR770,33143,https://identifiers.org/hgnc:33143
+MIR7704,50089,https://identifiers.org/hgnc:50089
 MIR7706,50110,https://identifiers.org/hgnc:50110
 MIR7843,50074,https://identifiers.org/hgnc:50074
 MIR7850,50118,https://identifiers.org/hgnc:50118
+MIR7851,50127,https://identifiers.org/hgnc:50127
 MIR7854,50047,https://identifiers.org/hgnc:50047
 MIR7974,49992,https://identifiers.org/hgnc:49992
 MIR7976,50092,https://identifiers.org/hgnc:50092
@@ -10740,24 +10961,30 @@ MIR885,33659,https://identifiers.org/hgnc:33659
 MIR887,33661,https://identifiers.org/hgnc:33661
 MIR888,33648,https://identifiers.org/hgnc:33648
 MIR889,33651,https://identifiers.org/hgnc:33651
+MIR891A,33635,https://identifiers.org/hgnc:33635
 MIR891B,33645,https://identifiers.org/hgnc:33645
+MIR892B,33649,https://identifiers.org/hgnc:33649
 MIR9-1,31641,https://identifiers.org/hgnc:31641
 MIR9-1HG,30780,https://identifiers.org/hgnc:30780
 MIR9-2HG,42810,https://identifiers.org/hgnc:42810
+MIR920,33670,https://identifiers.org/hgnc:33670
 MIR92A1,31643,https://identifiers.org/hgnc:31643
 MIR92A2,31644,https://identifiers.org/hgnc:31644
 MIR92B,32920,https://identifiers.org/hgnc:32920
 MIR93,31645,https://identifiers.org/hgnc:31645
 MIR934,33677,https://identifiers.org/hgnc:33677
 MIR935,33678,https://identifiers.org/hgnc:33678
+MIR937,33680,https://identifiers.org/hgnc:33680
 MIR939,33682,https://identifiers.org/hgnc:33682
 MIR940,33683,https://identifiers.org/hgnc:33683
 MIR941-1,33684,https://identifiers.org/hgnc:33684
 MIR942,33688,https://identifiers.org/hgnc:33688
+MIR943,33689,https://identifiers.org/hgnc:33689
 MIR944,33690,https://identifiers.org/hgnc:33690
 MIR95,31647,https://identifiers.org/hgnc:31647
 MIR96,31648,https://identifiers.org/hgnc:31648
 MIR98,31649,https://identifiers.org/hgnc:31649
+MIR9900,53992,https://identifiers.org/hgnc:53992
 MIR9903,53996,https://identifiers.org/hgnc:53996
 MIR9983,53997,https://identifiers.org/hgnc:53997
 MIR9985,53998,https://identifiers.org/hgnc:53998
@@ -11080,6 +11307,7 @@ MS4A8,13380,https://identifiers.org/hgnc:13380
 MSANTD1,33741,https://identifiers.org/hgnc:33741
 MSANTD2,26266,https://identifiers.org/hgnc:26266
 MSANTD3,23370,https://identifiers.org/hgnc:23370
+MSANTD3-TMEFF1,38838,https://identifiers.org/hgnc:38838
 MSANTD4,29383,https://identifiers.org/hgnc:29383
 MSANTD7,56248,https://identifiers.org/hgnc:56248
 MSC,7321,https://identifiers.org/hgnc:7321
@@ -11089,6 +11317,7 @@ MSH2,7325,https://identifiers.org/hgnc:7325
 MSH3,7326,https://identifiers.org/hgnc:7326
 MSH4,7327,https://identifiers.org/hgnc:7327
 MSH5,7328,https://identifiers.org/hgnc:7328
+MSH5-SAPCD1,41994,https://identifiers.org/hgnc:41994
 MSH6,7329,https://identifiers.org/hgnc:7329
 MSI1,7330,https://identifiers.org/hgnc:7330
 MSI2,18585,https://identifiers.org/hgnc:18585
@@ -11431,6 +11660,7 @@ NALF1,33877,https://identifiers.org/hgnc:33877
 NALF2,30701,https://identifiers.org/hgnc:30701
 NALT1,51192,https://identifiers.org/hgnc:51192
 NAMPT,30092,https://identifiers.org/hgnc:30092
+NAMPTP1,17633,https://identifiers.org/hgnc:17633
 NANOG,20857,https://identifiers.org/hgnc:20857
 NANOGNB,24958,https://identifiers.org/hgnc:24958
 NANOS1,23044,https://identifiers.org/hgnc:23044
@@ -11449,6 +11679,7 @@ NAPEPLD,21683,https://identifiers.org/hgnc:21683
 NAPG,7642,https://identifiers.org/hgnc:7642
 NAPRT,30450,https://identifiers.org/hgnc:30450
 NAPSA,13395,https://identifiers.org/hgnc:13395
+NAPSB,13396,https://identifiers.org/hgnc:13396
 NARF,29916,https://identifiers.org/hgnc:29916
 NARS1,7643,https://identifiers.org/hgnc:7643
 NARS2,26274,https://identifiers.org/hgnc:26274
@@ -11481,8 +11712,10 @@ NBPF11,31993,https://identifiers.org/hgnc:31993
 NBPF12,24297,https://identifiers.org/hgnc:24297
 NBPF14,25232,https://identifiers.org/hgnc:25232
 NBPF15,28791,https://identifiers.org/hgnc:28791
+NBPF17P,31997,https://identifiers.org/hgnc:31997
 NBPF19,31999,https://identifiers.org/hgnc:31999
 NBPF20,32000,https://identifiers.org/hgnc:32000
+NBPF26,49571,https://identifiers.org/hgnc:49571
 NBPF3,25076,https://identifiers.org/hgnc:25076
 NBPF4,26550,https://identifiers.org/hgnc:26550
 NBPF6,31988,https://identifiers.org/hgnc:31988
@@ -11501,6 +11734,7 @@ NCAPH2,25071,https://identifiers.org/hgnc:25071
 NCBP1,7658,https://identifiers.org/hgnc:7658
 NCBP2,7659,https://identifiers.org/hgnc:7659
 NCBP2AS2,25121,https://identifiers.org/hgnc:25121
+NCBP2L,31795,https://identifiers.org/hgnc:31795
 NCBP3,24612,https://identifiers.org/hgnc:24612
 NCCRP1,33739,https://identifiers.org/hgnc:33739
 NCDN,17597,https://identifiers.org/hgnc:17597
@@ -11583,6 +11817,7 @@ NDUFB11,20372,https://identifiers.org/hgnc:20372
 NDUFB2,7697,https://identifiers.org/hgnc:7697
 NDUFB3,7698,https://identifiers.org/hgnc:7698
 NDUFB4,7699,https://identifiers.org/hgnc:7699
+NDUFB4P12,45260,https://identifiers.org/hgnc:45260
 NDUFB4P2,45250,https://identifiers.org/hgnc:45250
 NDUFB5,7700,https://identifiers.org/hgnc:7700
 NDUFB6,7701,https://identifiers.org/hgnc:7701
@@ -11766,6 +12001,7 @@ NIT1,7828,https://identifiers.org/hgnc:7828
 NIT2,29878,https://identifiers.org/hgnc:29878
 NKAIN1,25743,https://identifiers.org/hgnc:25743
 NKAIN2,16443,https://identifiers.org/hgnc:16443
+NKAIN3,26829,https://identifiers.org/hgnc:26829
 NKAIN4,16191,https://identifiers.org/hgnc:16191
 NKAP,29873,https://identifiers.org/hgnc:29873
 NKAPD1,25569,https://identifiers.org/hgnc:25569
@@ -11778,6 +12014,7 @@ NKIRAS2,17898,https://identifiers.org/hgnc:17898
 NKPD1,24739,https://identifiers.org/hgnc:24739
 NKRF,19374,https://identifiers.org/hgnc:19374
 NKTR,7833,https://identifiers.org/hgnc:7833
+NKX1-1,24975,https://identifiers.org/hgnc:24975
 NKX1-2,31652,https://identifiers.org/hgnc:31652
 NKX2-1,11825,https://identifiers.org/hgnc:11825
 NKX2-2,7835,https://identifiers.org/hgnc:7835
@@ -11938,6 +12175,7 @@ NPIPA1,7909,https://identifiers.org/hgnc:7909
 NPIPA3,41978,https://identifiers.org/hgnc:41978
 NPIPA5,41980,https://identifiers.org/hgnc:41980
 NPIPA7,41982,https://identifiers.org/hgnc:41982
+NPIPA9,41984,https://identifiers.org/hgnc:41984
 NPIPB11,37453,https://identifiers.org/hgnc:37453
 NPIPB13,41989,https://identifiers.org/hgnc:41989
 NPIPB15,34409,https://identifiers.org/hgnc:34409
@@ -11997,6 +12235,7 @@ NR2C2AP,30763,https://identifiers.org/hgnc:30763
 NR2E1,7973,https://identifiers.org/hgnc:7973
 NR2E3,7974,https://identifiers.org/hgnc:7974
 NR2F1,7975,https://identifiers.org/hgnc:7975
+NR2F1-AS1,48622,https://identifiers.org/hgnc:48622
 NR2F2,7976,https://identifiers.org/hgnc:7976
 NR2F6,7977,https://identifiers.org/hgnc:7977
 NR3C1,7978,https://identifiers.org/hgnc:7978
@@ -12113,6 +12352,7 @@ NUDC,8045,https://identifiers.org/hgnc:8045
 NUDCD1,24306,https://identifiers.org/hgnc:24306
 NUDCD2,30535,https://identifiers.org/hgnc:30535
 NUDCD3,22208,https://identifiers.org/hgnc:22208
+NUDCP1,8046,https://identifiers.org/hgnc:8046
 NUDT1,8048,https://identifiers.org/hgnc:8048
 NUDT10,17621,https://identifiers.org/hgnc:17621
 NUDT11,18011,https://identifiers.org/hgnc:18011
@@ -12130,6 +12370,7 @@ NUDT21,13870,https://identifiers.org/hgnc:13870
 NUDT22,28189,https://identifiers.org/hgnc:28189
 NUDT3,8050,https://identifiers.org/hgnc:8050
 NUDT4,8051,https://identifiers.org/hgnc:8051
+NUDT4B,18012,https://identifiers.org/hgnc:18012
 NUDT5,8052,https://identifiers.org/hgnc:8052
 NUDT6,8053,https://identifiers.org/hgnc:8053
 NUDT7,8054,https://identifiers.org/hgnc:8054
@@ -12330,6 +12571,7 @@ OR10K2,14826,https://identifiers.org/hgnc:14826
 OR10P1,15378,https://identifiers.org/hgnc:15378
 OR10Q1,15134,https://identifiers.org/hgnc:15134
 OR10R2,14820,https://identifiers.org/hgnc:14820
+OR10S1,14807,https://identifiers.org/hgnc:14807
 OR10T2,14816,https://identifiers.org/hgnc:14816
 OR10V1,15136,https://identifiers.org/hgnc:15136
 OR10W1,15139,https://identifiers.org/hgnc:15139
@@ -12494,6 +12736,7 @@ OR4K5,14745,https://identifiers.org/hgnc:14745
 OR4L1,15356,https://identifiers.org/hgnc:15356
 OR4M1,14735,https://identifiers.org/hgnc:14735
 OR4M2,15373,https://identifiers.org/hgnc:15373
+OR4N2,14742,https://identifiers.org/hgnc:14742
 OR4N4,15375,https://identifiers.org/hgnc:15375
 OR4N5,15358,https://identifiers.org/hgnc:15358
 OR4P4,15180,https://identifiers.org/hgnc:15180
@@ -12572,6 +12815,7 @@ OR5C1,8331,https://identifiers.org/hgnc:8331
 OR5D13,15280,https://identifiers.org/hgnc:15280
 OR5D14,15281,https://identifiers.org/hgnc:15281
 OR5D18,15285,https://identifiers.org/hgnc:15285
+OR5E1P,8342,https://identifiers.org/hgnc:8342
 OR5F1,8343,https://identifiers.org/hgnc:8343
 OR5H1,8346,https://identifiers.org/hgnc:8346
 OR5H14,31286,https://identifiers.org/hgnc:31286
@@ -12637,6 +12881,7 @@ OR7C1,8373,https://identifiers.org/hgnc:8373
 OR7C2,8374,https://identifiers.org/hgnc:8374
 OR7D2,8378,https://identifiers.org/hgnc:8378
 OR7D4,8380,https://identifiers.org/hgnc:8380
+OR7E104P,15343,https://identifiers.org/hgnc:15343
 OR7E24,8396,https://identifiers.org/hgnc:8396
 OR7G1,8465,https://identifiers.org/hgnc:8465
 OR7G2,8466,https://identifiers.org/hgnc:8466
@@ -12806,6 +13051,7 @@ PABPC4L,31955,https://identifiers.org/hgnc:31955
 PABPC5,13629,https://identifiers.org/hgnc:13629
 PABPN1,8565,https://identifiers.org/hgnc:8565
 PABPN1L,37237,https://identifiers.org/hgnc:37237
+PABPN1P1,54988,https://identifiers.org/hgnc:54988
 PACC1,25593,https://identifiers.org/hgnc:25593
 PACERR,50552,https://identifiers.org/hgnc:50552
 PACRG,19152,https://identifiers.org/hgnc:19152
@@ -12969,6 +13215,7 @@ PCDH15,14674,https://identifiers.org/hgnc:14674
 PCDH17,14267,https://identifiers.org/hgnc:14267
 PCDH18,14268,https://identifiers.org/hgnc:14268
 PCDH19,14270,https://identifiers.org/hgnc:14270
+PCDH20,14257,https://identifiers.org/hgnc:14257
 PCDH7,8659,https://identifiers.org/hgnc:8659
 PCDH8,8660,https://identifiers.org/hgnc:8660
 PCDH9,8661,https://identifiers.org/hgnc:8661
@@ -13084,6 +13331,7 @@ PDCD2L,28194,https://identifiers.org/hgnc:28194
 PDCD4,8763,https://identifiers.org/hgnc:8763
 PDCD5,8764,https://identifiers.org/hgnc:8764
 PDCD6,8765,https://identifiers.org/hgnc:8765
+PDCD6-AHRR,54724,https://identifiers.org/hgnc:54724
 PDCD6IP,8766,https://identifiers.org/hgnc:8766
 PDCD7,8767,https://identifiers.org/hgnc:8767
 PDCL,8770,https://identifiers.org/hgnc:8770
@@ -13456,6 +13704,7 @@ PJA2,17481,https://identifiers.org/hgnc:17481
 PJVK,29502,https://identifiers.org/hgnc:29502
 PKD1,9008,https://identifiers.org/hgnc:9008
 PKD1L1,18053,https://identifiers.org/hgnc:18053
+PKD1L1-AS1,21911,https://identifiers.org/hgnc:21911
 PKD1L2,21715,https://identifiers.org/hgnc:21715
 PKD1L3,21716,https://identifiers.org/hgnc:21716
 PKD2,9009,https://identifiers.org/hgnc:9009
@@ -13643,6 +13892,7 @@ PM20D2,21408,https://identifiers.org/hgnc:21408
 PMAIP1,9108,https://identifiers.org/hgnc:9108
 PMCH,9109,https://identifiers.org/hgnc:9109
 PMCHL1,9110,https://identifiers.org/hgnc:9110
+PMCHL2,9111,https://identifiers.org/hgnc:9111
 PMEL,10880,https://identifiers.org/hgnc:10880
 PMEPA1,14107,https://identifiers.org/hgnc:14107
 PMF1,9112,https://identifiers.org/hgnc:9112
@@ -13672,6 +13922,7 @@ PNMA2,9159,https://identifiers.org/hgnc:9159
 PNMA3,18742,https://identifiers.org/hgnc:18742
 PNMA5,18743,https://identifiers.org/hgnc:18743
 PNMA6A,28248,https://identifiers.org/hgnc:28248
+PNMA6F,53119,https://identifiers.org/hgnc:53119
 PNMA8A,25578,https://identifiers.org/hgnc:25578
 PNMA8B,29206,https://identifiers.org/hgnc:29206
 PNMA8C,53427,https://identifiers.org/hgnc:53427
@@ -13796,6 +14047,7 @@ POT1,17284,https://identifiers.org/hgnc:17284
 POTEA,33893,https://identifiers.org/hgnc:33893
 POTEB,33734,https://identifiers.org/hgnc:33734
 POTEB2,48327,https://identifiers.org/hgnc:48327
+POTEB3,51240,https://identifiers.org/hgnc:51240
 POTEC,33894,https://identifiers.org/hgnc:33894
 POTED,23822,https://identifiers.org/hgnc:23822
 POTEE,33895,https://identifiers.org/hgnc:33895
@@ -13807,6 +14059,7 @@ POTEJ,37094,https://identifiers.org/hgnc:37094
 POTEM,37096,https://identifiers.org/hgnc:37096
 POU1F1,9210,https://identifiers.org/hgnc:9210
 POU2AF1,9211,https://identifiers.org/hgnc:9211
+POU2AF2,30527,https://identifiers.org/hgnc:30527
 POU2AF3,26978,https://identifiers.org/hgnc:26978
 POU2F1,9212,https://identifiers.org/hgnc:9212
 POU2F2,9213,https://identifiers.org/hgnc:9213
@@ -13914,6 +14167,7 @@ PPP1R2,9288,https://identifiers.org/hgnc:9288
 PPP1R21,30595,https://identifiers.org/hgnc:30595
 PPP1R26,29089,https://identifiers.org/hgnc:29089
 PPP1R27,16813,https://identifiers.org/hgnc:16813
+PPP1R2B,16318,https://identifiers.org/hgnc:16318
 PPP1R2C,16324,https://identifiers.org/hgnc:16324
 PPP1R35,28320,https://identifiers.org/hgnc:28320
 PPP1R36,20097,https://identifiers.org/hgnc:20097
@@ -13957,6 +14211,7 @@ PPP4R1L,15755,https://identifiers.org/hgnc:15755
 PPP4R2,18296,https://identifiers.org/hgnc:18296
 PPP4R3A,20219,https://identifiers.org/hgnc:20219
 PPP4R3B,29267,https://identifiers.org/hgnc:29267
+PPP4R3C,33146,https://identifiers.org/hgnc:33146
 PPP4R4,23788,https://identifiers.org/hgnc:23788
 PPP5C,9322,https://identifiers.org/hgnc:9322
 PPP5D1P,44209,https://identifiers.org/hgnc:44209
@@ -13984,6 +14239,7 @@ PRAMEF10,27997,https://identifiers.org/hgnc:27997
 PRAMEF11,14086,https://identifiers.org/hgnc:14086
 PRAMEF12,22125,https://identifiers.org/hgnc:22125
 PRAMEF13,13262,https://identifiers.org/hgnc:13262
+PRAMEF17,29485,https://identifiers.org/hgnc:29485
 PRAMEF18,30693,https://identifiers.org/hgnc:30693
 PRAMEF2,28841,https://identifiers.org/hgnc:28841
 PRAMEF20,25224,https://identifiers.org/hgnc:25224
@@ -14214,6 +14470,7 @@ PRSS55,30824,https://identifiers.org/hgnc:30824
 PRSS56,39433,https://identifiers.org/hgnc:39433
 PRSS57,31397,https://identifiers.org/hgnc:31397
 PRSS58,39125,https://identifiers.org/hgnc:39125
+PRSS59P,43791,https://identifiers.org/hgnc:43791
 PRSS8,9491,https://identifiers.org/hgnc:9491
 PRTFDC1,23333,https://identifiers.org/hgnc:23333
 PRTG,26373,https://identifiers.org/hgnc:26373
@@ -14224,6 +14481,7 @@ PRX,13797,https://identifiers.org/hgnc:13797
 PRXL2A,28651,https://identifiers.org/hgnc:28651
 PRXL2B,28390,https://identifiers.org/hgnc:28390
 PRXL2C,16881,https://identifiers.org/hgnc:16881
+PRY,14024,https://identifiers.org/hgnc:14024
 PRYP3,34020,https://identifiers.org/hgnc:34020
 PRYP4,34021,https://identifiers.org/hgnc:34021
 PSAP,9498,https://identifiers.org/hgnc:9498
@@ -14444,6 +14702,7 @@ PWP1,17015,https://identifiers.org/hgnc:17015
 PWP2,9711,https://identifiers.org/hgnc:9711
 PWWP2A,29406,https://identifiers.org/hgnc:29406
 PWWP2B,25150,https://identifiers.org/hgnc:25150
+PWWP3A,29641,https://identifiers.org/hgnc:29641
 PWWP3B,26583,https://identifiers.org/hgnc:26583
 PXDC1,21361,https://identifiers.org/hgnc:21361
 PXDN,14966,https://identifiers.org/hgnc:14966
@@ -14556,6 +14815,7 @@ RAB43,19983,https://identifiers.org/hgnc:19983
 RAB44,21068,https://identifiers.org/hgnc:21068
 RAB4A,9781,https://identifiers.org/hgnc:9781
 RAB4B,9782,https://identifiers.org/hgnc:9782
+RAB4B-EGLN2,44465,https://identifiers.org/hgnc:44465
 RAB5A,9783,https://identifiers.org/hgnc:9783
 RAB5B,9784,https://identifiers.org/hgnc:9784
 RAB5C,9785,https://identifiers.org/hgnc:9785
@@ -14563,6 +14823,7 @@ RAB5IF,15870,https://identifiers.org/hgnc:15870
 RAB6A,9786,https://identifiers.org/hgnc:9786
 RAB6B,14902,https://identifiers.org/hgnc:14902
 RAB6C,16525,https://identifiers.org/hgnc:16525
+RAB6D,30272,https://identifiers.org/hgnc:30272
 RAB7A,9788,https://identifiers.org/hgnc:9788
 RAB7B,30513,https://identifiers.org/hgnc:30513
 RAB8A,7007,https://identifiers.org/hgnc:7007
@@ -14636,6 +14897,7 @@ RAMAC,31022,https://identifiers.org/hgnc:31022
 RAMACL,21234,https://identifiers.org/hgnc:21234
 RAMP1,9843,https://identifiers.org/hgnc:9843
 RAMP2,9844,https://identifiers.org/hgnc:9844
+RAMP2-AS1,44358,https://identifiers.org/hgnc:44358
 RAMP3,9845,https://identifiers.org/hgnc:9845
 RAN,9846,https://identifiers.org/hgnc:9846
 RANBP1,9847,https://identifiers.org/hgnc:9847
@@ -14775,6 +15037,7 @@ RBM7,9904,https://identifiers.org/hgnc:9904
 RBM8A,9905,https://identifiers.org/hgnc:9905
 RBMS1,9907,https://identifiers.org/hgnc:9907
 RBMS2,9909,https://identifiers.org/hgnc:9909
+RBMS2P1,30994,https://identifiers.org/hgnc:30994
 RBMS3,13427,https://identifiers.org/hgnc:13427
 RBMX,9910,https://identifiers.org/hgnc:9910
 RBMX2,24282,https://identifiers.org/hgnc:24282
@@ -14785,8 +15048,11 @@ RBMXP4,34028,https://identifiers.org/hgnc:34028
 RBMY1A1,9912,https://identifiers.org/hgnc:9912
 RBMY1B,23914,https://identifiers.org/hgnc:23914
 RBMY1D,23915,https://identifiers.org/hgnc:23915
+RBMY1E,23916,https://identifiers.org/hgnc:23916
 RBMY1F,23974,https://identifiers.org/hgnc:23974
+RBMY1HP,9916,https://identifiers.org/hgnc:9916
 RBMY1J,23917,https://identifiers.org/hgnc:23917
+RBMY2CP,23260,https://identifiers.org/hgnc:23260
 RBP1,9919,https://identifiers.org/hgnc:9919
 RBP2,9920,https://identifiers.org/hgnc:9920
 RBP3,9921,https://identifiers.org/hgnc:9921
@@ -14814,6 +15080,7 @@ RCE1,13721,https://identifiers.org/hgnc:13721
 RCHY1,17479,https://identifiers.org/hgnc:17479
 RCL1,17687,https://identifiers.org/hgnc:17687
 RCN1,9934,https://identifiers.org/hgnc:9934
+RCN1P1,39205,https://identifiers.org/hgnc:39205
 RCN2,9935,https://identifiers.org/hgnc:9935
 RCN3,21145,https://identifiers.org/hgnc:21145
 RCOR1,17441,https://identifiers.org/hgnc:17441
@@ -14841,6 +15108,7 @@ RECQL,9948,https://identifiers.org/hgnc:9948
 RECQL4,9949,https://identifiers.org/hgnc:9949
 RECQL5,9950,https://identifiers.org/hgnc:9950
 REDIC1,26846,https://identifiers.org/hgnc:26846
+REELD1,53638,https://identifiers.org/hgnc:53638
 REEP1,25786,https://identifiers.org/hgnc:25786
 REEP2,17975,https://identifiers.org/hgnc:17975
 REEP3,23711,https://identifiers.org/hgnc:23711
@@ -14931,6 +15199,7 @@ RGMB,26896,https://identifiers.org/hgnc:26896
 RGN,9989,https://identifiers.org/hgnc:9989
 RGP1,21965,https://identifiers.org/hgnc:21965
 RGPD1,32414,https://identifiers.org/hgnc:32414
+RGPD2,32415,https://identifiers.org/hgnc:32415
 RGPD3,32416,https://identifiers.org/hgnc:32416
 RGPD4,32417,https://identifiers.org/hgnc:32417
 RGPD5,32418,https://identifiers.org/hgnc:32418
@@ -15044,6 +15313,7 @@ RIPOR2,13872,https://identifiers.org/hgnc:13872
 RIPOR3,16168,https://identifiers.org/hgnc:16168
 RIPPLY1,25117,https://identifiers.org/hgnc:25117
 RIPPLY2,21390,https://identifiers.org/hgnc:21390
+RIPPLY3,3047,https://identifiers.org/hgnc:3047
 RIT1,10023,https://identifiers.org/hgnc:10023
 RIT2,10017,https://identifiers.org/hgnc:10017
 RITA1,25925,https://identifiers.org/hgnc:25925
@@ -15255,6 +15525,7 @@ RNF222,34517,https://identifiers.org/hgnc:34517
 RNF223,40020,https://identifiers.org/hgnc:40020
 RNF224,41912,https://identifiers.org/hgnc:41912
 RNF225,51249,https://identifiers.org/hgnc:51249
+RNF227,27571,https://identifiers.org/hgnc:27571
 RNF24,13779,https://identifiers.org/hgnc:13779
 RNF25,14662,https://identifiers.org/hgnc:14662
 RNF26,14646,https://identifiers.org/hgnc:14646
@@ -15288,6 +15559,7 @@ RNU1-4,10128,https://identifiers.org/hgnc:10128
 RNU11,10108,https://identifiers.org/hgnc:10108
 RNU12,19380,https://identifiers.org/hgnc:19380
 RNU2-1,10142,https://identifiers.org/hgnc:10142
+RNU4-82P,47018,https://identifiers.org/hgnc:47018
 RNU4ATAC,34016,https://identifiers.org/hgnc:34016
 RNU4ATAC17P,46903,https://identifiers.org/hgnc:46903
 RNU4ATAC3P,42575,https://identifiers.org/hgnc:42575
@@ -15298,6 +15570,7 @@ RNU5B-1,10212,https://identifiers.org/hgnc:10212
 RNU5D-1,10214,https://identifiers.org/hgnc:10214
 RNU5F-1,10216,https://identifiers.org/hgnc:10216
 RNU6-1,10227,https://identifiers.org/hgnc:10227
+RNU6-82P,42572,https://identifiers.org/hgnc:42572
 RNU6ATAC,34017,https://identifiers.org/hgnc:34017
 RNU6ATAC20P,46919,https://identifiers.org/hgnc:46919
 RNU6ATAC4P,34094,https://identifiers.org/hgnc:34094
@@ -15358,6 +15631,7 @@ RPL10,10298,https://identifiers.org/hgnc:10298
 RPL10A,10299,https://identifiers.org/hgnc:10299
 RPL10AP6,36504,https://identifiers.org/hgnc:36504
 RPL10L,17976,https://identifiers.org/hgnc:17976
+RPL10P10,35486,https://identifiers.org/hgnc:35486
 RPL10P17,52348,https://identifiers.org/hgnc:52348
 RPL10P2,13975,https://identifiers.org/hgnc:13975
 RPL10P7,35974,https://identifiers.org/hgnc:35974
@@ -15647,6 +15921,7 @@ RUNX1T1,1535,https://identifiers.org/hgnc:1535
 RUNX2,10472,https://identifiers.org/hgnc:10472
 RUNX3,10473,https://identifiers.org/hgnc:10473
 RUSC1,17153,https://identifiers.org/hgnc:17153
+RUSC1-AS1,26680,https://identifiers.org/hgnc:26680
 RUSC2,23625,https://identifiers.org/hgnc:23625
 RUSF1,25848,https://identifiers.org/hgnc:25848
 RUVBL1,10474,https://identifiers.org/hgnc:10474
@@ -15788,6 +16063,7 @@ SCAMP3,10565,https://identifiers.org/hgnc:10565
 SCAMP4,30385,https://identifiers.org/hgnc:30385
 SCAMP5,30386,https://identifiers.org/hgnc:30386
 SCAND1,10566,https://identifiers.org/hgnc:10566
+SCAND2P,10567,https://identifiers.org/hgnc:10567
 SCAND3,13851,https://identifiers.org/hgnc:13851
 SCAP,30634,https://identifiers.org/hgnc:30634
 SCAPER,13081,https://identifiers.org/hgnc:13081
@@ -16210,6 +16486,8 @@ SHISAL2A,28757,https://identifiers.org/hgnc:28757
 SHKBP1,19214,https://identifiers.org/hgnc:19214
 SHLD1,26318,https://identifiers.org/hgnc:26318
 SHLD2,28773,https://identifiers.org/hgnc:28773
+SHLD2P1,31425,https://identifiers.org/hgnc:31425
+SHLD3,53826,https://identifiers.org/hgnc:53826
 SHMT1,10850,https://identifiers.org/hgnc:10850
 SHMT2,10852,https://identifiers.org/hgnc:10852
 SHOC1,26535,https://identifiers.org/hgnc:26535
@@ -16238,6 +16516,7 @@ SIGLEC11,15622,https://identifiers.org/hgnc:15622
 SIGLEC12,15482,https://identifiers.org/hgnc:15482
 SIGLEC14,32926,https://identifiers.org/hgnc:32926
 SIGLEC15,27596,https://identifiers.org/hgnc:27596
+SIGLEC16,24851,https://identifiers.org/hgnc:24851
 SIGLEC28P,15618,https://identifiers.org/hgnc:15618
 SIGLEC5,10874,https://identifiers.org/hgnc:10874
 SIGLEC6,10875,https://identifiers.org/hgnc:10875
@@ -16729,6 +17008,7 @@ SLPI,11092,https://identifiers.org/hgnc:11092
 SLTM,20709,https://identifiers.org/hgnc:20709
 SLU7,16939,https://identifiers.org/hgnc:16939
 SLURP1,18746,https://identifiers.org/hgnc:18746
+SLX1A,20922,https://identifiers.org/hgnc:20922
 SLX1B,28748,https://identifiers.org/hgnc:28748
 SLX4,23845,https://identifiers.org/hgnc:23845
 SLX4IP,16225,https://identifiers.org/hgnc:16225
@@ -16775,6 +17055,7 @@ SMCP,6962,https://identifiers.org/hgnc:6962
 SMCR8,17921,https://identifiers.org/hgnc:17921
 SMDT1,25055,https://identifiers.org/hgnc:25055
 SMG1,30045,https://identifiers.org/hgnc:30045
+SMG1P2,49859,https://identifiers.org/hgnc:49859
 SMG5,24644,https://identifiers.org/hgnc:24644
 SMG6,17809,https://identifiers.org/hgnc:17809
 SMG7,16792,https://identifiers.org/hgnc:16792
@@ -16803,6 +17084,7 @@ SMIM27,31420,https://identifiers.org/hgnc:31420
 SMIM29,1340,https://identifiers.org/hgnc:1340
 SMIM3,30248,https://identifiers.org/hgnc:30248
 SMIM30,48953,https://identifiers.org/hgnc:48953
+SMIM33,53645,https://identifiers.org/hgnc:53645
 SMIM35,44179,https://identifiers.org/hgnc:44179
 SMIM43,55077,https://identifiers.org/hgnc:55077
 SMIM5,40030,https://identifiers.org/hgnc:40030
@@ -16865,8 +17147,10 @@ SND1,30646,https://identifiers.org/hgnc:30646
 SNED1,24696,https://identifiers.org/hgnc:24696
 SNF8,17028,https://identifiers.org/hgnc:17028
 SNHG10,27510,https://identifiers.org/hgnc:27510
+SNHG17,48600,https://identifiers.org/hgnc:48600
 SNHG28,27647,https://identifiers.org/hgnc:27647
 SNHG32,19078,https://identifiers.org/hgnc:19078
+SNHG5,21026,https://identifiers.org/hgnc:21026
 SNIP1,30587,https://identifiers.org/hgnc:30587
 SNN,11149,https://identifiers.org/hgnc:11149
 SNORA11B,33620,https://identifiers.org/hgnc:33620
@@ -16877,6 +17161,7 @@ SNORA70,10231,https://identifiers.org/hgnc:10231
 SNORA73A,10115,https://identifiers.org/hgnc:10115
 SNORA80A,32666,https://identifiers.org/hgnc:32666
 SNORC,33763,https://identifiers.org/hgnc:33763
+SNORD114-10,32998,https://identifiers.org/hgnc:32998
 SNORD118,32952,https://identifiers.org/hgnc:32952
 SNORD12C,10105,https://identifiers.org/hgnc:10105
 SNORD13P3,10112,https://identifiers.org/hgnc:10112
@@ -17039,6 +17324,8 @@ SPAG8,14105,https://identifiers.org/hgnc:14105
 SPAG9,14524,https://identifiers.org/hgnc:14524
 SPAM1,11217,https://identifiers.org/hgnc:11217
 SPANXA2,14328,https://identifiers.org/hgnc:14328
+SPANXB1,14329,https://identifiers.org/hgnc:14329
+SPANXN1,33174,https://identifiers.org/hgnc:33174
 SPANXN2,33175,https://identifiers.org/hgnc:33175
 SPANXN3,33176,https://identifiers.org/hgnc:33176
 SPANXN4,33177,https://identifiers.org/hgnc:33177
@@ -17046,6 +17333,7 @@ SPANXN5,33178,https://identifiers.org/hgnc:33178
 SPARC,11219,https://identifiers.org/hgnc:11219
 SPARCL1,11220,https://identifiers.org/hgnc:11220
 SPART,18514,https://identifiers.org/hgnc:18514
+SPART-AS1,39933,https://identifiers.org/hgnc:39933
 SPAST,11233,https://identifiers.org/hgnc:11233
 SPATA1,14682,https://identifiers.org/hgnc:14682
 SPATA12,23221,https://identifiers.org/hgnc:23221
@@ -17146,6 +17434,7 @@ SPIRE1,30622,https://identifiers.org/hgnc:30622
 SPIRE2,30623,https://identifiers.org/hgnc:30623
 SPMAP2,13706,https://identifiers.org/hgnc:13706
 SPMAP2L,43771,https://identifiers.org/hgnc:43771
+SPMIP1,52392,https://identifiers.org/hgnc:52392
 SPMIP10,33767,https://identifiers.org/hgnc:33767
 SPMIP2,26342,https://identifiers.org/hgnc:26342
 SPMIP3,30435,https://identifiers.org/hgnc:30435
@@ -17268,6 +17557,7 @@ SRR,14398,https://identifiers.org/hgnc:14398
 SRRD,33910,https://identifiers.org/hgnc:33910
 SRRM1,16638,https://identifiers.org/hgnc:16638
 SRRM2,16639,https://identifiers.org/hgnc:16639
+SRRM2-AS1,44162,https://identifiers.org/hgnc:44162
 SRRM3,26729,https://identifiers.org/hgnc:26729
 SRRM4,29389,https://identifiers.org/hgnc:29389
 SRRM5,37248,https://identifiers.org/hgnc:37248
@@ -17535,6 +17825,7 @@ SUN5,16252,https://identifiers.org/hgnc:16252
 SUOX,11460,https://identifiers.org/hgnc:11460
 SUPT16H,11465,https://identifiers.org/hgnc:11465
 SUPT20H,20596,https://identifiers.org/hgnc:20596
+SUPT20HL1,30773,https://identifiers.org/hgnc:30773
 SUPT3H,11466,https://identifiers.org/hgnc:11466
 SUPT4H1,11467,https://identifiers.org/hgnc:11467
 SUPT5H,11469,https://identifiers.org/hgnc:11469
@@ -17621,6 +17912,7 @@ SYT12,18381,https://identifiers.org/hgnc:18381
 SYT13,14962,https://identifiers.org/hgnc:14962
 SYT14,23143,https://identifiers.org/hgnc:23143
 SYT15,17167,https://identifiers.org/hgnc:17167
+SYT15B,51487,https://identifiers.org/hgnc:51487
 SYT16,23142,https://identifiers.org/hgnc:23142
 SYT17,24119,https://identifiers.org/hgnc:24119
 SYT2,11510,https://identifiers.org/hgnc:11510
@@ -17687,9 +17979,11 @@ TAF7L,11548,https://identifiers.org/hgnc:11548
 TAF8,17300,https://identifiers.org/hgnc:17300
 TAF9,11542,https://identifiers.org/hgnc:11542
 TAF9B,17306,https://identifiers.org/hgnc:17306
+TAF9BP2,38836,https://identifiers.org/hgnc:38836
 TAFA1,21587,https://identifiers.org/hgnc:21587
 TAFA2,21589,https://identifiers.org/hgnc:21589
 TAFA3,21590,https://identifiers.org/hgnc:21590
+TAFA4,21591,https://identifiers.org/hgnc:21591
 TAFA5,21592,https://identifiers.org/hgnc:21592
 TAFAZZIN,11577,https://identifiers.org/hgnc:11577
 TAGAP,15669,https://identifiers.org/hgnc:15669
@@ -17927,6 +18221,7 @@ TEKT1,15534,https://identifiers.org/hgnc:15534
 TEKT2,11725,https://identifiers.org/hgnc:11725
 TEKT3,14293,https://identifiers.org/hgnc:14293
 TEKT4,31012,https://identifiers.org/hgnc:31012
+TEKT4P2,40046,https://identifiers.org/hgnc:40046
 TEKT5,26554,https://identifiers.org/hgnc:26554
 TEKTIP1,34496,https://identifiers.org/hgnc:34496
 TEKTL1,26866,https://identifiers.org/hgnc:26866
@@ -18091,6 +18386,7 @@ THSD1,17754,https://identifiers.org/hgnc:17754
 THSD4,25835,https://identifiers.org/hgnc:25835
 THSD7A,22207,https://identifiers.org/hgnc:22207
 THSD7B,29348,https://identifiers.org/hgnc:29348
+THSD8,53785,https://identifiers.org/hgnc:53785
 THTPA,18987,https://identifiers.org/hgnc:18987
 THUMPD1,23807,https://identifiers.org/hgnc:23807
 THUMPD2,14890,https://identifiers.org/hgnc:14890
@@ -18127,6 +18423,7 @@ TIMM21,25010,https://identifiers.org/hgnc:25010
 TIMM22,17317,https://identifiers.org/hgnc:17317
 TIMM23,17312,https://identifiers.org/hgnc:17312
 TIMM23B,23581,https://identifiers.org/hgnc:23581
+TIMM23B-AGAP6,45009,https://identifiers.org/hgnc:45009
 TIMM29,25152,https://identifiers.org/hgnc:25152
 TIMM44,17316,https://identifiers.org/hgnc:17316
 TIMM50,23656,https://identifiers.org/hgnc:23656
@@ -18279,6 +18576,7 @@ TMEM132B,29397,https://identifiers.org/hgnc:29397
 TMEM132C,25436,https://identifiers.org/hgnc:25436
 TMEM132D,29411,https://identifiers.org/hgnc:29411
 TMEM132E,26991,https://identifiers.org/hgnc:26991
+TMEM132E-DT,34412,https://identifiers.org/hgnc:34412
 TMEM134,26142,https://identifiers.org/hgnc:26142
 TMEM135,26167,https://identifiers.org/hgnc:26167
 TMEM138,26944,https://identifiers.org/hgnc:26944
@@ -18411,6 +18709,7 @@ TMEM267,26139,https://identifiers.org/hgnc:26139
 TMEM268,24513,https://identifiers.org/hgnc:24513
 TMEM269,52381,https://identifiers.org/hgnc:52381
 TMEM270,23018,https://identifiers.org/hgnc:23018
+TMEM271,53639,https://identifiers.org/hgnc:53639
 TMEM272,26737,https://identifiers.org/hgnc:26737
 TMEM273,27274,https://identifiers.org/hgnc:27274
 TMEM30A,16667,https://identifiers.org/hgnc:16667
@@ -18705,6 +19004,7 @@ TPST2,12021,https://identifiers.org/hgnc:12021
 TPT1,12022,https://identifiers.org/hgnc:12022
 TPT1-AS1,43686,https://identifiers.org/hgnc:43686
 TPT1P4,49298,https://identifiers.org/hgnc:49298
+TPT1P8,24088,https://identifiers.org/hgnc:24088
 TPTE,12023,https://identifiers.org/hgnc:12023
 TPTE2,17299,https://identifiers.org/hgnc:17299
 TPX2,1249,https://identifiers.org/hgnc:1249
@@ -18754,10 +19054,12 @@ TRAPPC8,29169,https://identifiers.org/hgnc:29169
 TRAPPC9,30832,https://identifiers.org/hgnc:30832
 TRARG1,29592,https://identifiers.org/hgnc:29592
 TRAT1,30698,https://identifiers.org/hgnc:30698
+TRAV6,12144,https://identifiers.org/hgnc:12144
 TRB,12155,https://identifiers.org/hgnc:12155
 TRBC1,12156,https://identifiers.org/hgnc:12156
 TRBV7-9,12243,https://identifiers.org/hgnc:12243
 TRD,12252,https://identifiers.org/hgnc:12252
+TRDC,12253,https://identifiers.org/hgnc:12253
 TRDJ2,12258,https://identifiers.org/hgnc:12258
 TRDMT1,2977,https://identifiers.org/hgnc:2977
 TRDN,12261,https://identifiers.org/hgnc:12261
@@ -18952,6 +19254,7 @@ TSLP,30743,https://identifiers.org/hgnc:30743
 TSN,12379,https://identifiers.org/hgnc:12379
 TSNARE1,26437,https://identifiers.org/hgnc:26437
 TSNAX,12380,https://identifiers.org/hgnc:12380
+TSNAX-DISC1,49177,https://identifiers.org/hgnc:49177
 TSNAXIP1,18586,https://identifiers.org/hgnc:18586
 TSPAN1,20657,https://identifiers.org/hgnc:20657
 TSPAN10,29942,https://identifiers.org/hgnc:29942
@@ -19118,6 +19421,7 @@ TVP23BP2,38869,https://identifiers.org/hgnc:38869
 TVP23C,30453,https://identifiers.org/hgnc:30453
 TVP23C-CDRT4,42961,https://identifiers.org/hgnc:42961
 TWF1,9620,https://identifiers.org/hgnc:9620
+TWF1P1,21736,https://identifiers.org/hgnc:21736
 TWF2,9621,https://identifiers.org/hgnc:9621
 TWIST1,12428,https://identifiers.org/hgnc:12428
 TWIST2,20670,https://identifiers.org/hgnc:20670
@@ -19148,6 +19452,7 @@ TXNRD3,20667,https://identifiers.org/hgnc:20667
 TYK2,12440,https://identifiers.org/hgnc:12440
 TYMP,3148,https://identifiers.org/hgnc:3148
 TYMS,12441,https://identifiers.org/hgnc:12441
+TYMSOS,29553,https://identifiers.org/hgnc:29553
 TYR,12442,https://identifiers.org/hgnc:12442
 TYRO3,12446,https://identifiers.org/hgnc:12446
 TYROBP,12449,https://identifiers.org/hgnc:12449
@@ -19197,6 +19502,7 @@ UBE2E1,12477,https://identifiers.org/hgnc:12477
 UBE2E2,12478,https://identifiers.org/hgnc:12478
 UBE2E3,12479,https://identifiers.org/hgnc:12479
 UBE2F,12480,https://identifiers.org/hgnc:12480
+UBE2F-SCLY,48339,https://identifiers.org/hgnc:48339
 UBE2G1,12482,https://identifiers.org/hgnc:12482
 UBE2G2,12483,https://identifiers.org/hgnc:12483
 UBE2H,12484,https://identifiers.org/hgnc:12484
@@ -19332,6 +19638,7 @@ ULK4,15784,https://identifiers.org/hgnc:15784
 UMAD1,48955,https://identifiers.org/hgnc:48955
 UMOD,12559,https://identifiers.org/hgnc:12559
 UMODL1,12560,https://identifiers.org/hgnc:12560
+UMODL1-AS1,23821,https://identifiers.org/hgnc:23821
 UMPS,12563,https://identifiers.org/hgnc:12563
 UNC119,12565,https://identifiers.org/hgnc:12565
 UNC119B,16488,https://identifiers.org/hgnc:16488
@@ -19365,6 +19672,7 @@ UPK1B,12578,https://identifiers.org/hgnc:12578
 UPK2,12579,https://identifiers.org/hgnc:12579
 UPK3A,12580,https://identifiers.org/hgnc:12580
 UPK3B,21444,https://identifiers.org/hgnc:21444
+UPK3BL1,37278,https://identifiers.org/hgnc:37278
 UPP1,12576,https://identifiers.org/hgnc:12576
 UPP2,23061,https://identifiers.org/hgnc:23061
 UPRT,28334,https://identifiers.org/hgnc:28334
@@ -19678,6 +19986,7 @@ WAS,12731,https://identifiers.org/hgnc:12731
 WASF1,12732,https://identifiers.org/hgnc:12732
 WASF2,12733,https://identifiers.org/hgnc:12733
 WASF3,12734,https://identifiers.org/hgnc:12734
+WASF4P,20801,https://identifiers.org/hgnc:20801
 WASHC1,24361,https://identifiers.org/hgnc:24361
 WASHC2A,23416,https://identifiers.org/hgnc:23416
 WASHC2C,23414,https://identifiers.org/hgnc:23414
@@ -19726,6 +20035,7 @@ WDR45B,25072,https://identifiers.org/hgnc:25072
 WDR46,13923,https://identifiers.org/hgnc:13923
 WDR47,29141,https://identifiers.org/hgnc:29141
 WDR48,30914,https://identifiers.org/hgnc:30914
+WDR49,26587,https://identifiers.org/hgnc:26587
 WDR5,12757,https://identifiers.org/hgnc:12757
 WDR53,28786,https://identifiers.org/hgnc:28786
 WDR54,25770,https://identifiers.org/hgnc:25770
@@ -19971,6 +20281,7 @@ ZBTB41,24819,https://identifiers.org/hgnc:24819
 ZBTB42,32550,https://identifiers.org/hgnc:32550
 ZBTB43,17908,https://identifiers.org/hgnc:17908
 ZBTB44,25001,https://identifiers.org/hgnc:25001
+ZBTB44-DT,54265,https://identifiers.org/hgnc:54265
 ZBTB45,23715,https://identifiers.org/hgnc:23715
 ZBTB46,16094,https://identifiers.org/hgnc:16094
 ZBTB47,26955,https://identifiers.org/hgnc:26955
@@ -19992,6 +20303,7 @@ ZC2HC1C,20354,https://identifiers.org/hgnc:20354
 ZC3H10,25893,https://identifiers.org/hgnc:25893
 ZC3H11A,29093,https://identifiers.org/hgnc:29093
 ZC3H11B,25659,https://identifiers.org/hgnc:25659
+ZC3H11C,56304,https://identifiers.org/hgnc:56304
 ZC3H12A,26259,https://identifiers.org/hgnc:26259
 ZC3H12B,17407,https://identifiers.org/hgnc:17407
 ZC3H12C,29362,https://identifiers.org/hgnc:29362
@@ -20087,6 +20399,7 @@ ZFP69B,28053,https://identifiers.org/hgnc:28053
 ZFP82,28682,https://identifiers.org/hgnc:28682
 ZFP90,23329,https://identifiers.org/hgnc:23329
 ZFP91,14983,https://identifiers.org/hgnc:14983
+ZFP91-CNTF,33441,https://identifiers.org/hgnc:33441
 ZFP92,12865,https://identifiers.org/hgnc:12865
 ZFPL1,12868,https://identifiers.org/hgnc:12868
 ZFPM1,19762,https://identifiers.org/hgnc:19762
@@ -20215,6 +20528,7 @@ ZNF222,13015,https://identifiers.org/hgnc:13015
 ZNF223,13016,https://identifiers.org/hgnc:13016
 ZNF224,13017,https://identifiers.org/hgnc:13017
 ZNF225,13018,https://identifiers.org/hgnc:13018
+ZNF225-AS1,55916,https://identifiers.org/hgnc:55916
 ZNF226,13019,https://identifiers.org/hgnc:13019
 ZNF227,13020,https://identifiers.org/hgnc:13020
 ZNF229,13022,https://identifiers.org/hgnc:13022
@@ -20278,6 +20592,7 @@ ZNF319,13644,https://identifiers.org/hgnc:13644
 ZNF32,13095,https://identifiers.org/hgnc:13095
 ZNF320,13842,https://identifiers.org/hgnc:13842
 ZNF322,23640,https://identifiers.org/hgnc:23640
+ZNF322P1,14003,https://identifiers.org/hgnc:14003
 ZNF324,14096,https://identifiers.org/hgnc:14096
 ZNF324B,33107,https://identifiers.org/hgnc:33107
 ZNF326,14104,https://identifiers.org/hgnc:14104
@@ -20344,6 +20659,7 @@ ZNF431,20809,https://identifiers.org/hgnc:20809
 ZNF432,20810,https://identifiers.org/hgnc:20810
 ZNF433,20811,https://identifiers.org/hgnc:20811
 ZNF436,20814,https://identifiers.org/hgnc:20814
+ZNF436-AS1,25122,https://identifiers.org/hgnc:25122
 ZNF438,21029,https://identifiers.org/hgnc:21029
 ZNF439,20873,https://identifiers.org/hgnc:20873
 ZNF44,13110,https://identifiers.org/hgnc:13110
@@ -20387,6 +20703,7 @@ ZNF500,23716,https://identifiers.org/hgnc:23716
 ZNF501,23717,https://identifiers.org/hgnc:23717
 ZNF502,23718,https://identifiers.org/hgnc:23718
 ZNF503,23589,https://identifiers.org/hgnc:23589
+ZNF503-AS1,27370,https://identifiers.org/hgnc:27370
 ZNF506,23780,https://identifiers.org/hgnc:23780
 ZNF507,23783,https://identifiers.org/hgnc:23783
 ZNF510,29161,https://identifiers.org/hgnc:29161
@@ -20502,6 +20819,7 @@ ZNF639,30950,https://identifiers.org/hgnc:30950
 ZNF641,31834,https://identifiers.org/hgnc:31834
 ZNF644,29222,https://identifiers.org/hgnc:29222
 ZNF646,29004,https://identifiers.org/hgnc:29004
+ZNF648,18190,https://identifiers.org/hgnc:18190
 ZNF649,25741,https://identifiers.org/hgnc:25741
 ZNF652,29147,https://identifiers.org/hgnc:29147
 ZNF653,25196,https://identifiers.org/hgnc:25196
@@ -20517,6 +20835,7 @@ ZNF667,28854,https://identifiers.org/hgnc:28854
 ZNF668,25821,https://identifiers.org/hgnc:25821
 ZNF669,25736,https://identifiers.org/hgnc:25736
 ZNF670,28167,https://identifiers.org/hgnc:28167
+ZNF670-ZNF695,49200,https://identifiers.org/hgnc:49200
 ZNF671,26279,https://identifiers.org/hgnc:26279
 ZNF672,26179,https://identifiers.org/hgnc:26179
 ZNF674,17625,https://identifiers.org/hgnc:17625
@@ -20531,6 +20850,7 @@ ZNF682,28857,https://identifiers.org/hgnc:28857
 ZNF683,28495,https://identifiers.org/hgnc:28495
 ZNF684,28418,https://identifiers.org/hgnc:28418
 ZNF687,29277,https://identifiers.org/hgnc:29277
+ZNF687-AS1,54048,https://identifiers.org/hgnc:54048
 ZNF688,30489,https://identifiers.org/hgnc:30489
 ZNF689,25173,https://identifiers.org/hgnc:25173
 ZNF69,13138,https://identifiers.org/hgnc:13138
@@ -20564,6 +20884,8 @@ ZNF716,32458,https://identifiers.org/hgnc:32458
 ZNF717,29448,https://identifiers.org/hgnc:29448
 ZNF718,26889,https://identifiers.org/hgnc:26889
 ZNF721,29425,https://identifiers.org/hgnc:29425
+ZNF722,22571,https://identifiers.org/hgnc:22571
+ZNF723,32286,https://identifiers.org/hgnc:32286
 ZNF724,32460,https://identifiers.org/hgnc:32460
 ZNF726,32462,https://identifiers.org/hgnc:32462
 ZNF727,22785,https://identifiers.org/hgnc:22785
@@ -20659,6 +20981,7 @@ ZNF878,37246,https://identifiers.org/hgnc:37246
 ZNF879,37273,https://identifiers.org/hgnc:37273
 ZNF880,37249,https://identifiers.org/hgnc:37249
 ZNF883,27271,https://identifiers.org/hgnc:27271
+ZNF888,38695,https://identifiers.org/hgnc:38695
 ZNF891,38709,https://identifiers.org/hgnc:38709
 ZNF90,13165,https://identifiers.org/hgnc:13165
 ZNF91,13166,https://identifiers.org/hgnc:13166

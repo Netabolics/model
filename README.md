@@ -1,23 +1,23 @@
 
 # Virtual cell model
 
-This repository illustrates the core features of our latest (stable) genome-scale generic model of human cell biology.
+This repository illustrates the core features of our latest (stable) fully mechanistic, genome-scale ODE-based model of human cell biology.
 
-> Version: `21.60.659`-`20260226T192327`
+> Version: `ODEVC`-`21.61.1043`-`20260408T113528`
 
 
 ## Overview
 
-We constructed a human biological network (in the form of a directed hypergraph) through semi-automated extraction and manual curation of data from publicly available as well as proprietary databases and knowledge bases. Presently, the network contains approx. 2.7M edges and 719K nodes (sum of species and reaction nodes; see table below). This is too large to be displayed effectively, but here we show an example of nearest-neighbors subnetworks using representative gene nodes (up to a distance of $d=2$ species nodes; not all edges are portrayed).
+We constructed a human biological network (directed hypergraph) through semi-automated extraction and manual curation from public and proprietary data sources. The network currently contains 3.4M edges and 1.1M nodes (species + reaction nodes; see table below). Due to its size, full visualization is impractical; instead, we show representative nearest-neighbor subnetworks (up to distance $d=2$ species nodes; edges partially shown).
 
 ![Subnetwork example](./nn_example.svg)
 
-The network is used to build a mechanistic, compartmentalized, generic model of cell biology as a systems of ordinary differential equations (ODEs). The generic model can be parametrized using public or private multiomics datasets to make it cell type- or tissue-specific, and used within our AI-Driven Biosimulation platform (https://netabolics.ai/) to perform dynamical (i.e., time-resolved) simulation (see the [`demo`](https://github.com/Netabolics/demo) repository for an example). The platform uses either a parallel ODE solver for ensemble simulation or a GPU-accelerated ODE solver for single simulation. GPU-accelerated ensemble solving is feasible depending on the available VRAM.
+The network is used to build a mechanistic, compartmentalized model of cell biology formulated as a system of ordinary differential equations (ODEs). This generic model is deployed within our AI-driven biosimulation platform (https://netabolics.ai/) for time-resolved simulation (see the [`demo`](https://github.com/Netabolics/demo) repository). 
 
 
 ## Features
 
-Overall, the model integrates **gene regulatory network** (GRN) to model upregulation or downregulation of gene products expression, **signal transduction network** (STN) to model activation/inhibition reactions among gene-encoded products, **metabolic reactions network** (MRN) to model biochemical processing of metabolites by enzyme-catalyzed reactions and carrier-mediated transport processes, and **protein-interaction network** (PIN) to model formation of protein (super)complexes. 
+Overall, the ODE system integrates **gene regulatory network** (GRN) to model upregulation or downregulation of gene products expression, **signal transduction network** (STN) to model activation/inhibition reactions among gene-encoded products, **metabolic reactions network** (MRN) to model biochemical processing of metabolites by enzyme-catalyzed reactions and carrier-mediated transport processes, and **protein-interaction network** (PIN) to model formation of protein (super)complexes. 
 
 Specifically, the model incorporates the components listed in the following table.
 
@@ -26,27 +26,36 @@ Specifically, the model incorporates the components listed in the following tabl
 | Compartments | **9**+1 (\*)
 | | | extracellular | reservoir (e.g., blood) (\*)<br>extracellular space |
 |              |  | intracellular | cytosol<br>mitochondrion (intermembrane space)<br>mitochondrion (matrix)<br>nucleus<br>(sarco)endoplasmic reticulum<br>Golgi apparatus<br>peroxisome<br>lysosome |
-| Genes | **20,734** | | complete list in [`genes.csv`](genes.csv) |
-| Molecular Species | **60,214** (\*\*)
+| Genes | **21,057** | | complete list in [`genes.csv`](genes.csv) |
+| Molecular Species | **60,860** (\*\*)
 | | | gene products | proteins (via mRNA)<br>&nbsp;&nbsp;*signaling proteins*<br>&nbsp;&nbsp;*transcription factors*<br>&nbsp;&nbsp;*enzymes*<br>&nbsp;&nbsp;*channels/transporters*<br>long non-coding RNAs (lncRNA)<br>micro RNAs (miRNA) |
-| | | complexes | enzymatic, regulatory, etc. |
+| | | complexes | enzymatic, regulatory |
 | | | small molecules | metabolites<br>ions<br>cofactors<br>second messengers |
-| Gene-associated Reactions | **658,683**
-| | | signal transduction | activation/inactivation (kinases, phosphatases, receptors, G-proteins, etc.) |
+| Gene-associated Reactions | **1,042,522**
+| | | signal transduction | activation/inactivation (kinases, phosphatases, receptors, G-proteins) |
 | | | gene regulation | upregulation/downregulation of gene expression |
-| | | complex formation | physical interactions, binding, etc. |
-| | | enzymatic catalysis | biosynthesis, energy metabolism, etc. |
-| | | intercompartmental transport | transmembrane, carrier- or channel-mediated, etc. |
+| | | complex formation | binding, physical interactions |
+| | | enzymatic catalysis | biosynthesis, energy metabolism |
+| | | intercompartmental transport | transmembrane, carrier/channel-mediated |
 
 (\*) Reservoir compartment as source/sink, i.e., supplying/accepting substances to/from the system.
 
-(\*\*) As total molecular species (corresponding to the number of ODEs). This is larger then the number of unique molecular species because many of them exist in different states (e.g., phosphorylated vs dephosphorylated proteins) and/or in different compartments.
+(\*\*) As total molecular species (corresponding to the number of ODEs). This exceeds the number of unique molecular species because many of them exist in different states (e.g., phosphorylated vs dephosphorylated proteins) and/or in different compartments.
 
-The model has a total of **3.3M parameters**, including context-independent (stoichiometric, kinetic, catalytic, and thermodynamic) and context-dependent (initial conditions defining state and cell-specific network topology) parameters.
+The model has a total of **4.5M parameters**, including context-independent (stoichiometric, kinetic, catalytic, and thermodynamic) and context-dependent (initial conditions defining state and cell-specific network topology) quantities.
 
-## Planned Updates
 
-We are constantly working to extend model's gene coverage. Currently, we are curating further gene-associated reactions to reach a complete coverage of the protein-coding genes and almost full coverage of the known non-coding RNA genes. The currently most significant planned update involves miRNA/lncRNA to target gene interactions (approx. 350K additional reactions involving ~5,000 additional genes).
+## Current Status and Planned Updates
+
+The system of ODEs can be parametrized either without or with experimental OMICs data to generate cell type- or tissue-specific instances. 
+- Knowledge-driven parametrization: self-consistent estimation based on known or derived kinetic and thermodynamic constraints. 
+- Data-driven parametrization: gradient-based optimization (e.g., Adam) and either Continuous Adjoint (CA) or Automatic Differentiation (AD) for the backward-pass.
+
+For forward-pass, we use either a parallel ensemble ODE solver (ensemble simulation) or a GPU-accelerated ODE solver (single simulation). GPU-accelerated ensemble solving is feasible depending on the available VRAM. Our theoretical non-equilibrium thermodynamics framework (an ODE-based instantiation of [GENERIC](https://en.wikipedia.org/wiki/GENERIC_formalism)-like reversible-irreversible dynamics) allows very efficient solver scalability. As an illustration, 1 hour of simulation time can be integrated in seconds on a consumer GPU using fixed time-step methods (e.g., RK4).
+
+The model has been trained and benchmarked on multiple public datasets, showing improving out of distribution (OOD) generalization. The work is in progress and results are not yet published.
+
+We are constantly working to extend model's gene coverage. Currently, we are curating further gene-associated reactions to reach a complete coverage of the protein-coding genes and near-complete coverage of the known non-coding RNA genes.
 
 
 ## Further Reading
