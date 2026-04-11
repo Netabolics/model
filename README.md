@@ -8,7 +8,7 @@ This repository illustrates the core features of our latest (stable) fully mecha
 
 ## Overview
 
-We constructed a human biological network (directed hypergraph) through semi-automated extraction and manual curation from public and proprietary data sources. The network currently contains 3.4M edges and 1.1M nodes (species + reaction nodes; see table below). Due to its size, full visualization is impractical; instead, we show representative nearest-neighbor subnetworks (up to distance $d=2$ species nodes; edges partially shown).
+We constructed a human biological network (directed hypergraph) through semi-automated extraction and manual curation from public and proprietary data sources. The network currently contains 3.4M edges and 1.1M nodes (species + reaction nodes; see table below). Due to its size, full visualization is impractical; instead, we show representative nearest-neighbor subnetworks centered on selected target genes (up to distance $d=2$ species nodes; edges partially shown).
 
 ![Subnetwork example](./nn_example.svg)
 
@@ -38,7 +38,7 @@ Specifically, the model incorporates the components listed in the following tabl
 | | | enzymatic catalysis | biosynthesis, energy metabolism |
 | | | intercompartmental transport | transmembrane, carrier/channel-mediated |
 
-(\*) Reservoir compartment as source/sink, i.e., supplying/accepting substances to/from the system.
+(\*) Reservoir compartment as source/sink, i.e., supplying/accepting substances to/from the environment.
 
 (\*\*) As total molecular species (corresponding to the number of ODEs). This exceeds the number of unique molecular species because many of them exist in different states (e.g., phosphorylated vs dephosphorylated proteins) and/or in different compartments.
 
@@ -55,7 +55,7 @@ For forward-pass, we use either a parallel ensemble ODE solver (ensemble simulat
 
 The model has been trained and benchmarked on multiple public datasets, showing improving out of distribution (OOD) generalization. The work is in progress and results are not yet published.
 
-We are constantly working to extend model's gene coverage. Currently, we are curating further gene-associated reactions to reach a complete coverage of the protein-coding genes and near-complete coverage of the known non-coding RNA genes.
+We are constantly working to extend model's gene coverage. Currently, we are curating further gene-associated reactions to reach a complete coverage of the protein-coding genes and near-complete coverage of the known non-coding RNA genes. Our major planned update is to scale the model to multi-cellular systems.
 
 
 ## Further Reading
