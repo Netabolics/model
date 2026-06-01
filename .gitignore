@@ -3,4 +3,4 @@
 *.py
 nodes.csv
 edges.csv
-*.png
+*.svg
