@@ -3,12 +3,12 @@
 
 This repository illustrates the core features of our latest (stable) fully mechanistic, genome-scale ODE-based model of human cell biology.
 
-> Version: `ODEVC`-`21.62.1848`-`20260531T065626`
+> Version: `ODEVC`-`23.65.4720`-`20260721T173726`
 
 
 ## Overview
 
-We constructed a human biological network (directed hypergraph) through semi-automated extraction and manual curation from public and proprietary data sources. The network currently contains 6M edges and 1.9M nodes (species + reaction nodes; see table below). Due to its size, full visualization is impractical; instead, we show representative nearest-neighbor subnetworks centered on selected target genes (up to distance $d=2$ species nodes; edges partially shown).
+We constructed a human biological network (directed hypergraph) through semi-automated extraction and manual curation from public and proprietary data sources. The network currently contains 19M edges and 4.8M nodes (species + reaction nodes; see table below). Due to its size, full visualization is impractical; instead, we show representative nearest-neighbor subnetworks centered on selected target genes (up to distance $d=2$ species nodes; edges partially shown).
 
 ![Subnetwork example](./nn_example.png)
 
@@ -26,12 +26,12 @@ Specifically, the model incorporates the components listed in the following tabl
 | Compartments | **9**+1 (\*)
 | | | extracellular | reservoir (e.g., blood) (\*)<br>extracellular space |
 |              |  | intracellular | cytosol<br>mitochondrion (intermembrane space)<br>mitochondrion (matrix)<br>nucleus<br>(sarco)endoplasmic reticulum<br>Golgi apparatus<br>peroxisome<br>lysosome |
-| Genes | **21,481** | | complete list in [`genes.csv`](genes.csv) |
-| Molecular Species | **61,708** (\*\*)
+| Genes | **22,900** | | complete list in [`genes.csv`](genes.csv) |
+| Molecular Species | **64,556** (\*\*)
 | | | gene products | proteins (via mRNA)<br>&nbsp;&nbsp;*signaling proteins*<br>&nbsp;&nbsp;*transcription factors*<br>&nbsp;&nbsp;*enzymes*<br>&nbsp;&nbsp;*channels/transporters*<br>long non-coding RNAs (lncRNA)<br>micro RNAs (miRNA) |
 | | | complexes | enzymatic, regulatory |
 | | | small molecules | metabolites<br>ions<br>cofactors<br>second messengers |
-| Gene-associated Reactions | **1,847,612**
+| Gene-associated Reactions | **4,719,956**
 | | | signal transduction | activation/inactivation (kinases, phosphatases, receptors, G-proteins) |
 | | | gene regulation | upregulation/downregulation of gene expression |
 | | | complex formation | binding, physical interactions |
@@ -42,7 +42,7 @@ Specifically, the model incorporates the components listed in the following tabl
 
 (\*\*) As total molecular species (corresponding to the number of ODEs). This exceeds the number of unique molecular species because many of them exist in different states (e.g., phosphorylated vs dephosphorylated proteins) and/or in different compartments.
 
-The model has a total of **7.9M parameters**, including state-independent (stoichiometric, kinetic, catalytic, and thermodynamic) and state-dependent (initial conditions and activation/conformation) quantities.
+The model has a total of approx. **24M parameters**, including state-independent (stoichiometric, kinetic, catalytic, and thermodynamic) and state-dependent (initial conditions and activation/conformation) quantities.
 
 
 ## Current Status and Planned Updates
